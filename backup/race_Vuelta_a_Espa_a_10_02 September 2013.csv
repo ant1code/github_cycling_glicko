@@ -1,0 +1,195 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,1.0,+0:00,184,HORNER Chris,41,RadioShack - Leopard,16.0,80.0,4:30:22,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+1,2,2.0,+0:43,31,NIBALI Vincenzo,28,Astana Pro Team,8.0,50.0,0:480:48,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+2,3,4.0,+1:02,1,VALVERDE Alejandro,33,Movistar Team,4.0,35.0,1:021:02,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+3,4,7.0,+2:20,71,BASSO Ivan,35,Cannondale Pro Cycling Team,2.0,25.0,",,1:02",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+4,5,5.0,+1:40,121,RODRÍGUEZ Joaquim,34,Team Katusha,1.0,18.0,",,1:02",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+5,6,8.0,+3:11,101,PINOT Thibaut,23,FDJ.fr,,15.0,",,1:02",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+6,7,3.0,+0:53,205,ROCHE Nicolas,29,Team Saxo - Tinkoff,,12.0,1:101:10,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+7,8,21.0,+7:01,92,ANTÓN Igor,30,Euskaltel - Euskadi,,10.0,1:251:25,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+8,9,10.0,+3:28,11,POZZOVIVO Domenico,30,AG2R La Mondiale,,8.0,",,1:25",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+9,10,9.0,+3:16,202,MAJKA Rafał,23,Team Saxo - Tinkoff,,6.0,1:521:52,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+10,11,20.0,+6:39,96,NIEVE Mikel,29,Euskaltel - Euskadi,,5.0,2:222:22,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+11,12,6.0,+2:04,127,MORENO Daniel,31,Team Katusha,,4.0,",,2:22",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+12,13,17.0,+6:33,91,SÁNCHEZ Samuel,35,Euskaltel - Euskadi,,3.0,",,2:22",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+13,14,12.0,+4:09,2,CAPECCHI Eros,27,Movistar Team,,2.0,",,2:22",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+14,15,19.0,+6:36,56,NERZ Dominik,24,BMC Racing Team,,1.0,2:482:48,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+15,16,18.0,+6:33,61,ARROYO David,33,Caja Rural - Seguros RGA,,,",,2:48",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+16,17,14.0,+4:42,36,KANGERT Tanel,26,Astana Pro Team,,,",,2:48",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+17,18,27.0,+8:22,103,ELISSONDE Kenny,22,FDJ.fr,,,3:073:07,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+18,19,25.0,+7:45,157,MENDES José,28,Team NetApp – Endura,,,",,3:07",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+19,20,11.0,+3:58,151,KÖNIG Leopold,25,Team NetApp – Endura,,,",,3:07",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+20,21,13.0,+4:35,58,SANTAROMITA Ivan,29,BMC Racing Team,,,3:283:28,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+21,22,24.0,+7:29,206,SØRENSEN Chris Anker,28,Team Saxo - Tinkoff,,,3:453:45,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+22,23,30.0,+11:06,63,CARDOSO André,28,Caja Rural - Seguros RGA,,,",,3:45",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+23,24,31.0,+11:09,82,BAGOT Yoann,25,"Cofidis, Solutions Crédits",,,3:523:52,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+24,25,16.0,+6:05,48,TEN DAM Laurens,32,Belkin-Pro Cycling Team,,,3:583:58,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+25,26,23.0,+7:08,191,HENAO Sergio,25,Sky Procycling,,,",,3:58",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+26,27,15.0,+5:12,198,URÁN Rigoberto,26,Sky Procycling,,,4:084:08,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+27,28,42.0,+30:04,33,FUGLSANG Jakob,28,Astana Pro Team,,,4:284:28,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+28,29,22.0,+7:04,131,SCARPONI Michele,33,Lampre - Merida,,,5:005:00,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+29,30,28.0,+9:29,32,BRAJKOVIČ Janez,29,Astana Pro Team,,,",,5:00",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+30,31,32.0,+12:26,216,MARCZYŃSKI Tomasz,29,Vacansoleil - DCM,,,",,5:00",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+31,32,33.0,+12:36,209,ZAUGG Oliver,32,Team Saxo - Tinkoff,,,5:045:04,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+32,33,26.0,+8:13,5,HERRADA José,27,Movistar Team,,,5:265:26,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+33,34,29.0,+10:20,186,KIŠERLOVSKI Robert,27,RadioShack - Leopard,,,7:027:02,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+34,35,41.0,+29:51,68,TXURRUKA Amets,30,Caja Rural - Seguros RGA,,,9:079:07,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+35,36,74.0,+53:11,97,OROZ Juan José,33,Euskaltel - Euskadi,,,9:159:15,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+36,37,64.0,+46:06,142,DE GREEF Francis,28,Lotto Belisol Team,,,9:219:21,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+37,38,38.0,+25:29,122,CARUSO Giampaolo,33,Team Katusha,,,9:399:39,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+38,39,92.0,+1:08:32,53,KOHLER Martin,28,BMC Racing Team,,,",,9:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+39,40,37.0,+25:19,139,ULISSI Diego,24,Lampre - Merida,,,",,9:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+40,41,34.0,+13:11,154,DE LA CRUZ David,24,Team NetApp – Endura,,,9:509:50,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+41,42,59.0,+43:16,214,FLECHA Juan Antonio,35,Vacansoleil - DCM,,,10:2610:26,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+42,43,58.0,+43:08,199,ZANDIO Xabier,36,Sky Procycling,,,10:3810:38,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+43,44,48.0,+35:42,27,PREIDLER Georg,23,Team Argos - Shimano,,,",,10:38",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+44,45,119.0,+1:20:05,88,SIJMENS Nico,35,"Cofidis, Solutions Crédits",,,11:1311:13,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+45,46,70.0,+49:13,218,VALLS Rafael,26,Vacansoleil - DCM,,,13:3713:37,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+46,47,46.0,+32:14,9,SZMYD Sylwester,35,Movistar Team,,,",,13:37",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+47,48,47.0,+34:53,107,ROUX Anthony,26,FDJ.fr,,,13:5213:52,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+48,49,69.0,+49:10,183,HERMANS Ben,27,RadioShack - Leopard,,,14:4714:47,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+49,50,72.0,+51:10,44,CLEMENT Stef,30,Belkin-Pro Cycling Team,,,15:3915:39,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+50,51,62.0,+45:05,164,MEERSMAN Gianni,27,Omega Pharma - Quick-Step,,,",,15:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+51,52,53.0,+39:20,95,MARTÍNEZ Egoi,35,Euskaltel - Euskadi,,,",,15:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+52,53,73.0,+51:18,143,HANSEN Adam,32,Lotto Belisol Team,,,",,15:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+53,54,91.0,+1:07:22,93,AZANZA Jorge,31,Euskaltel - Euskadi,,,",,15:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+54,55,61.0,+43:48,37,TIRALONGO Paolo,36,Astana Pro Team,,,",,15:39",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+55,56,54.0,+40:02,156,HUZARSKI Bartosz,32,Team NetApp – Endura,,,17:0917:09,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+56,57,139.0,+1:31:17,38,VANOTTI Alessandro,32,Astana Pro Team,,,18:1318:13,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+57,58,89.0,+1:04:52,193,CATALDO Dario,28,Sky Procycling,,,19:3519:35,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+58,59,63.0,+45:44,99,VERDUGO Gorka,34,Euskaltel - Euskadi,,,",,19:35",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+59,60,88.0,+1:04:13,181,CANCELLARA Fabian,32,RadioShack - Leopard,,,",,19:35",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+60,61,45.0,+31:50,165,PAUWELS Serge,29,Omega Pharma - Quick-Step,,,20:2720:27,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+61,62,140.0,+1:32:26,45,GARATE Juan Manuel,37,Belkin-Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+62,63,44.0,+31:33,85,MATÉ Luis Ángel,29,"Cofidis, Solutions Crédits",,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+63,64,126.0,+1:25:19,185,IRIZAR Markel,33,RadioShack - Leopard,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+64,65,52.0,+36:37,123,GUSEV Vladimir,31,Team Katusha,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+65,66,132.0,+1:26:56,3,ERVITI Imanol,29,Movistar Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+66,67,116.0,+1:18:17,153,CAMAÑO Iker,34,Team NetApp – Endura,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+67,68,111.0,+1:16:17,177,MEIER Christian,28,Orica GreenEDGE,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+68,69,77.0,+54:56,79,WURF Cameron,30,Cannondale Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+69,70,96.0,+1:09:45,39,ZEITS Andrey,26,Astana Pro Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+70,71,131.0,+1:26:27,34,GRIVKO Andrey,30,Astana Pro Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+71,72,87.0,+1:03:59,16,GASTAUER Ben,25,AG2R La Mondiale,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+72,73,35.0,+21:19,189,ZUBELDIA Haimar,36,RadioShack - Leopard,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+73,74,118.0,+1:19:25,169,VANDEWALLE Kristof,28,Omega Pharma - Quick-Step,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+74,75,138.0,+1:30:17,4,GUTIÉRREZ José Iván,34,Movistar Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+75,76,123.0,+1:23:57,145,REYNÉS Vicente,32,Lotto Belisol Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+76,77,50.0,+35:58,78,SARMIENTO Cayetano José,26,Cannondale Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+77,78,81.0,+1:01:00,94,LANDA Mikel,23,Euskaltel - Euskadi,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+78,79,120.0,+1:20:48,146,VAN DE WALLE Jurgen,36,Lotto Belisol Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+79,80,114.0,+1:18:01,15,CHEREL Mikaël,27,AG2R La Mondiale,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+80,81,36.0,+23:57,41,MOLLEMA Bauke,26,Belkin-Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+81,82,71.0,+50:09,12,BÉRARD Julien,26,AG2R La Mondiale,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+82,83,60.0,+43:43,104,GENIEZ Alexandre,25,FDJ.fr,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+83,84,110.0,+1:15:57,188,RAST Grégory,33,RadioShack - Leopard,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+84,85,75.0,+53:17,159,VOSS Paul,27,Team NetApp – Endura,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+85,86,109.0,+1:15:52,75,LONGO BORGHINI Paolo,32,Cannondale Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+86,87,55.0,+40:52,182,BUSCHE Matthew,28,RadioShack - Leopard,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+87,88,103.0,+1:11:46,173,CLARKE Simon,27,Orica GreenEDGE,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+88,89,51.0,+36:15,46,SÁNCHEZ Luis León,29,Belkin-Pro Cycling Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+89,90,149.0,+1:36:02,7,LASTRAS Pablo,37,Movistar Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+90,91,112.0,+1:17:30,65,GARCÍA Marcos,26,Caja Rural - Seguros RGA,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+91,92,142.0,+1:34:10,207,SØRENSEN Nicki,38,Team Saxo - Tinkoff,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+92,93,49.0,+35:52,19,NOCENTINI Rinaldo,35,AG2R La Mondiale,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+93,94,97.0,+1:10:20,119,VANSUMMEREN Johan,32,Garmin Sharp,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+94,95,39.0,+26:32,8,MORENO Javier,29,Movistar Team,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+95,96,68.0,+48:50,136,MORI Manuele,33,Lampre - Merida,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+96,97,56.0,+41:02,81,COPPEL Jérôme,27,"Cofidis, Solutions Crédits",,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+97,98,129.0,+1:25:59,208,TOSATTO Matteo,39,Team Saxo - Tinkoff,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+98,99,159.0,+1:42:37,204,PETROV Evgeni,35,Team Saxo - Tinkoff,,,",,20:27",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+99,100,125.0,+1:24:33,6,INTXAUSTI Beñat,27,Movistar Team,,,21:1021:10,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+100,101,76.0,+53:49,129,VICIOSO Ángel,36,Team Katusha,,,",,21:10",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+101,102,99.0,+1:10:32,109,VEIKKANEN Jussi,32,FDJ.fr,,,",,21:10",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+102,103,67.0,+47:59,192,BOASSON HAGEN Edvald,26,Sky Procycling,,,22:0422:04,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+103,104,107.0,+1:15:13,194,KIRYIENKA Vasil,32,Sky Procycling,,,",,22:04",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+104,105,121.0,+1:21:30,196,PUCCIO Salvatore,24,Sky Procycling,,,",,22:04",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+105,106,98.0,+1:10:28,138,STORTONI Simone,28,Lampre - Merida,,,",,22:04",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+106,107,171.0,+1:49:11,219,WESTRA Lieuwe,30,Vacansoleil - DCM,,,",,22:04",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+107,108,135.0,+1:28:25,215,HOOGERLAND Johnny,30,Vacansoleil - DCM,,,",,22:04",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+108,109,83.0,+1:02:18,76,PATERSKI Maciej,26,Cannondale Pro Cycling Team,,,22:3822:38,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+109,110,66.0,+46:16,201,KREUZIGER Roman,27,Team Saxo - Tinkoff,,,23:3123:31,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+110,111,82.0,+1:02:16,187,POPOVYCH Yaroslav,33,RadioShack - Leopard,,,23:3323:33,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+111,112,130.0,+1:26:06,106,PINEAU Cédric,28,FDJ.fr,,,23:3823:38,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+112,113,141.0,+1:32:39,64,FERRARI Fabricio,28,Caja Rural - Seguros RGA,,,23:5923:59,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+113,114,162.0,+1:44:04,67,PIEDRA Antonio,27,Caja Rural - Seguros RGA,,,",,23:59",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+114,115,134.0,+1:27:40,73,DALL'ANTONIA Tiziano,30,Cannondale Pro Cycling Team,,,24:1524:15,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+115,116,127.0,+1:25:26,57,PINOTTI Marco,37,BMC Racing Team,,,24:2724:27,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+116,117,43.0,+30:40,166,SERRY Pieter,24,Omega Pharma - Quick-Step,,,24:2924:29,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+117,118,165.0,+1:45:18,147,VAN DER SANDE Tosh,22,Lotto Belisol Team,,,25:1725:17,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+118,119,94.0,+1:09:17,23,FRÖHLINGER Johannes,28,Team Argos - Shimano,,,25:2425:24,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+119,120,105.0,+1:14:27,24,HUPOND Thierry,28,Team Argos - Shimano,,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+120,121,115.0,+1:18:15,84,EDET Nicolas,25,"Cofidis, Solutions Crédits",,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+121,122,40.0,+27:37,22,BARGUIL Warren,21,Team Argos - Shimano,,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+122,123,152.0,+1:37:27,168,VAN KEIRSBULCK Guillaume,22,Omega Pharma - Quick-Step,,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+123,124,78.0,+57:54,162,DE WEERT Kevin,31,Omega Pharma - Quick-Step,,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+124,125,128.0,+1:25:47,35,IGLINSKIY Maxim,32,Astana Pro Team,,,",,25:24",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+125,126,113.0,+1:17:52,152,BÁRTA Jan,28,Team NetApp – Endura,,,26:0326:03,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+126,127,170.0,+1:48:19,83,BESSY Cyril,27,"Cofidis, Solutions Crédits",,,",,26:03",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+127,128,164.0,+1:45:09,172,BEWLEY Sam,26,Orica GreenEDGE,,,26:3626:36,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+128,129,187.0,+2:05:15,116,KREDER Michel,26,Garmin Sharp,,,27:0627:06,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+129,130,144.0,+1:34:30,134,DODI Luca,26,Lampre - Merida,,,",,27:06",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+130,131,124.0,+1:24:25,161,MARTIN Tony,28,Omega Pharma - Quick-Step,,,27:0827:08,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+131,132,153.0,+1:38:17,49,WAGNER Robert,30,Belkin-Pro Cycling Team,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+132,133,86.0,+1:03:28,167,ŠTYBAR Zdeněk,27,Omega Pharma - Quick-Step,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+133,134,185.0,+1:58:08,29,STAMSNIJDER Tom,28,Team Argos - Shimano,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+134,135,160.0,+1:42:40,155,DEMPSTER Zak,25,Team NetApp – Endura,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+135,136,106.0,+1:14:50,47,TANNER David,28,Belkin-Pro Cycling Team,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+136,137,93.0,+1:08:49,25,JANSE VAN RENSBURG Reinardt,24,Team Argos - Shimano,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+137,138,102.0,+1:11:28,195,KNEES Christian,32,Sky Procycling,,,",,27:08",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+138,139,101.0,+1:11:22,77,RATTO Daniele,23,Cannondale Pro Cycling Team,,,28:1728:17,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+139,140,166.0,+1:46:15,74,HAEDO Lucas Sebastián,30,Cannondale Pro Cycling Team,,,",,28:17",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+140,141,184.0,+1:57:52,43,BROWN Graeme Allen,34,Belkin-Pro Cycling Team,,,29:4929:49,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+141,142,155.0,+1:39:53,113,FARRAR Tyler,29,Garmin Sharp,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+142,143,181.0,+1:55:01,117,NUYENS Nick,33,Garmin Sharp,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+143,144,173.0,+1:50:33,105,MANGEL Laurent,32,FDJ.fr,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+144,145,95.0,+1:09:24,51,GILBERT Philippe,31,BMC Racing Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+145,146,80.0,+1:00:29,59,WYSS Danilo,28,BMC Racing Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+146,147,104.0,+1:13:44,149,VANENDERT Dennis,25,Lotto Belisol Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+147,148,156.0,+1:41:39,132,ANACONA Winner,25,Lampre - Merida,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+148,149,151.0,+1:36:27,203,MØRKØV Michael,28,Team Saxo - Tinkoff,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+149,150,145.0,+1:34:31,55,LODEWYCK Klaas,25,BMC Racing Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+150,151,150.0,+1:36:23,171,GERRANS Simon,33,Orica GreenEDGE,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+151,152,57.0,+42:34,52,EIJSSEN Yannick,24,BMC Racing Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+152,153,108.0,+1:15:15,178,MATTHEWS Michael,22,Orica GreenEDGE,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+153,154,180.0,+1:54:30,54,LANDER Sebastian,22,BMC Racing Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+154,155,163.0,+1:44:58,197,ROWE Luke,23,Sky Procycling,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+155,156,148.0,+1:36:02,28,SINKELDAM Ramon,24,Team Argos - Shimano,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+156,157,154.0,+1:39:28,125,KOZONTCHUK Dmitry,29,Team Katusha,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+157,158,90.0,+1:05:33,115,HOWES Alex,25,Garmin Sharp,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+158,159,84.0,+1:02:32,89,ZINGLE Romain,26,"Cofidis, Solutions Crédits",,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+159,160,146.0,+1:35:44,144,HENDERSON Gregory,36,Lotto Belisol Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+160,161,79.0,+58:25,148,VANENDERT Jelle,28,Lotto Belisol Team,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+161,162,157.0,+1:41:51,175,DOCKER Mitchell,26,Orica GreenEDGE,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+162,163,176.0,+1:51:20,176,HOWARD Leigh,23,Orica GreenEDGE,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+163,164,158.0,+1:42:08,87,POULHIÈS Stéphane,28,"Cofidis, Solutions Crédits",,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+164,165,167.0,+1:46:23,66,LASCA Francesco,25,Caja Rural - Seguros RGA,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+165,166,168.0,+1:46:33,102,COURTEILLE Arnaud,24,FDJ.fr,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+166,167,179.0,+1:53:18,62,ARAMENDIA Javier,26,Caja Rural - Seguros RGA,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+167,168,175.0,+1:50:42,112,FAIRLY Caleb,26,Garmin Sharp,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+168,169,133.0,+1:27:26,158,SCHORN Daniel,24,Team NetApp – Endura,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+169,170,122.0,+1:23:07,14,CHAINEL Steve,29,AG2R La Mondiale,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+170,171,147.0,+1:36:00,174,COOKE Baden,34,Orica GreenEDGE,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+171,172,169.0,+1:47:56,118,RASMUSSEN Alex,29,Garmin Sharp,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+172,173,100.0,+1:11:16,212,BOLE Grega,28,Vacansoleil - DCM,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+173,174,161.0,+1:43:44,86,PETIT Adrien,22,"Cofidis, Solutions Crédits",,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+174,175,172.0,+1:49:47,21,ARNDT Nikias,21,Team Argos - Shimano,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+175,176,178.0,+1:52:15,98,URTASUN Pablo,33,Euskaltel - Euskadi,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+176,177,186.0,+2:00:14,135,GRAZIATO Massimo,24,Lampre - Merida,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+177,178,143.0,+1:34:26,211,POELS Wout,25,Vacansoleil - DCM,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+178,179,183.0,+1:57:28,13,BETANCUR Carlos,23,AG2R La Mondiale,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+179,180,188.0,+2:10:22,133,BONO Matteo,29,Lampre - Merida,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+180,181,137.0,+1:29:39,17,MONDORY Lloyd,31,AG2R La Mondiale,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+181,182,136.0,+1:29:10,108,SOUPE Geoffrey,25,FDJ.fr,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+182,183,65.0,+46:11,18,MONTAGUTI Matteo,29,AG2R La Mondiale,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+183,184,174.0,+1:50:36,137,RICHEZE Maximiliano,30,Lampre - Merida,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+184,185,182.0,+1:55:52,26,PETERSON Tom,26,Team Argos - Shimano,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+185,186,177.0,+1:51:37,124,ISAYCHEV Vladimir,27,Team Katusha,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+186,187,117.0,+1:19:03,128,PAOLINI Luca,36,Team Katusha,,,",,29:49",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+187,188,85.0,+1:03:16,69,VELASCO Iván,33,Caja Rural - Seguros RGA,,,32:3632:36,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+188,1000,,,163,FENN Andrew,23,Omega Pharma - Quick-Step,,,-5:0-31:0-22-5:0-31:0-22,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+189,1000,,,213,DE GENDT Thomas,26,Vacansoleil - DCM,,,",,-5:0-31:0-22",Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+190,DNF,,,72,BOIVIN Guillaume,24,Cannondale Pro Cycling Team,,,-,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+191,DNF,,,217,MARKUS Barry,22,Vacansoleil - DCM,,,-,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+192,DNF,,,126,LOSADA Alberto,31,Team Katusha,,,-,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9
+193,DNF,,,141,DE CLERCQ Bart,27,Lotto Belisol Team,,,-,Vuelta_a_Espa_a,10,02 September 2013,39.5 km/h,0,178 km,9

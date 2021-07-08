@@ -1,0 +1,145 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,30.0,+35:06,166,NARVÁEZ Jhonatan,23,INEOS Grenadiers,100.0,80.0,5:31:24,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+1,2,39.0,+49:48,36,PADUN Mark,24,Bahrain - McLaren,40.0,50.0,1:081:08,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+2,3,62.0,+1:15:32,93,CLARKE Simon,34,EF Pro Cycling,20.0,35.0,6:506:50,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+3,4,42.0,+53:30,67,ROSSKOPF Joey,31,CCC Team,12.0,25.0,7:307:30,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+4,5,73.0,+1:26:00,15,PELLAUD Simon,27,Androni Giocattoli - Sidermec,4.0,18.0,7:437:43,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+5,6,11.0,+2:39,206,MCNULTY Brandon,22,UAE-Team Emirates,,15.0,8:258:25,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+6,7,6.0,+1:15,56,KONRAD Patrick,29,BORA - hansgrohe,,12.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+7,8,29.0,+34:10,95,GUERREIRO Ruben,26,EF Pro Cycling,,10.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+8,9,1.0,+0:00,81,ALMEIDA João,22,Deceuninck - Quick Step,,8.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+9,10,12.0,+2:45,165,GEOGHEGAN HART Tao,25,INEOS Grenadiers,,6.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+10,11,9.0,+1:36,87,MASNADA Fausto,26,Deceuninck - Quick Step,,5.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+11,12,2.0,+0:34,181,KELDERMAN Wilco,29,Team Sunweb,,4.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+12,13,7.0,+1:19,185,HINDLEY Jai,24,Team Sunweb,,3.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+13,14,95.0,+1:46:59,216,VAN EMPEL Etienne,26,Vini Zabù - KTM,,2.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+14,15,40.0,+52:12,2,BIDARD François,28,AG2R La Mondiale,,1.0,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+15,16,4.0,+0:57,155,POZZOVIVO Domenico,37,NTT Pro Cycling,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+16,17,5.0,+1:01,191,NIBALI Vincenzo,35,Trek - Segafredo,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+17,18,26.0,+31:58,84,HONORÉ Mikkel Frølich,23,Deceuninck - Quick Step,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+18,19,66.0,+1:17:01,22,BOARO Manuele,33,Astana Pro Team,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+19,20,10.0,+2:20,21,FUGLSANG Jakob,35,Astana Pro Team,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+20,21,8.0,+1:21,57,MAJKA Rafał,31,BORA - hansgrohe,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+21,22,3.0,+0:43,33,BILBAO Pello,30,Bahrain - McLaren,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+22,23,32.0,+40:59,184,HAMILTON Chris,25,Team Sunweb,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+23,24,13.0,+2:58,143,PEDRERO Antonio,28,Movistar Team,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+24,25,48.0,+1:01:29,154,O'CONNOR Ben,24,NTT Pro Cycling,,,",,8:25",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+25,26,50.0,+1:06:11,75,HANSEN Jesper,29,"Cofidis, Solutions Crédits",,,8:388:38,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+26,27,15.0,+5:56,86,KNOX James,24,Deceuninck - Quick Step,,,8:498:49,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+27,28,28.0,+32:08,196,MOSCA Jacopo,27,Trek - Segafredo,,,11:4311:43,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+28,29,23.0,+26:53,24,FELLINE Fabio,30,Astana Pro Team,,,",,11:43",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+29,30,20.0,+23:04,54,FABBRO Matteo,25,BORA - hansgrohe,,,",,11:43",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+30,31,14.0,+5:10,37,PERNSTEINER Hermann,30,Bahrain - McLaren,,,",,11:43",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+31,32,16.0,+8:43,145,SAMITIER Sergio,25,Movistar Team,,,",,11:43",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+32,33,24.0,+29:40,96,KANGERT Tanel,33,EF Pro Cycling,,,",,11:43",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+33,34,84.0,+1:36:00,82,BALLERINI Davide,26,Deceuninck - Quick Step,,,16:0016:00,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+34,35,108.0,+2:03:55,147,TORRES Albert,30,Movistar Team,,,",,16:00",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+35,36,99.0,+1:50:12,52,BENEDETTI Cesare,33,BORA - hansgrohe,,,",,16:00",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+36,37,37.0,+45:01,88,SERRY Pieter,31,Deceuninck - Quick Step,,,",,16:00",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+37,38,49.0,+1:05:30,146,SEPÚLVEDA Eduardo,29,Movistar Team,,,",,16:00",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+38,39,35.0,+42:47,193,BRAMBILLA Gianluca,33,Trek - Segafredo,,,20:5020:50,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+39,40,38.0,+48:27,201,ULISSI Diego,31,UAE-Team Emirates,,,21:0621:06,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+40,41,91.0,+1:40:14,66,MAŁECKI Kamil,24,CCC Team,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+41,42,68.0,+1:18:04,202,BJERG Mikkel,21,UAE-Team Emirates,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+42,43,41.0,+53:00,63,DE LA PARTE Víctor,34,CCC Team,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+43,44,21.0,+23:30,187,OOMEN Sam,25,Team Sunweb,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+44,45,17.0,+15:08,61,ZAKARIN Ilnur,31,CCC Team,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+45,46,22.0,+24:36,68,VALTER Attila,22,CCC Team,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+46,47,44.0,+55:59,194,CICCONE Giulio,25,Trek - Segafredo,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+47,48,18.0,+18:54,162,CASTROVIEJO Jonathan,33,INEOS Grenadiers,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+48,49,54.0,+1:06:50,167,PUCCIO Salvatore,31,INEOS Grenadiers,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+49,50,60.0,+1:15:06,183,HAGA Chad,32,Team Sunweb,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+50,51,79.0,+1:31:33,156,SOBRERO Matteo,23,NTT Pro Cycling,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+51,52,83.0,+1:34:11,163,DENNIS Rohan,30,INEOS Grenadiers,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+52,53,36.0,+43:16,197,NIBALI Antonio,28,Trek - Segafredo,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+53,54,100.0,+1:50:17,35,NOVAK Domen,25,Bahrain - McLaren,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+54,55,43.0,+54:41,116,NAVARRO Daniel,37,Israel Start-Up Nation,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+55,56,19.0,+19:02,6,PARET-PEINTRE Aurélien,24,AG2R La Mondiale,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+56,57,47.0,+1:01:07,58,POLJAŃSKI Paweł,30,BORA - hansgrohe,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+57,58,118.0,+2:18:48,208,RICHEZE Maximiliano,37,UAE-Team Emirates,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+58,59,31.0,+39:31,168,SWIFT Ben,32,INEOS Grenadiers,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+59,60,33.0,+41:26,188,TUSVELD Martijn,27,Team Sunweb,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+60,61,105.0,+2:00:12,152,CAMPENAERTS Victor,28,NTT Pro Cycling,,,",,21:06",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+61,62,63.0,+1:15:44,192,BERNARD Julien,28,Trek - Segafredo,,,23:5023:50,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+62,63,80.0,+1:31:47,182,DENZ Nico,26,Team Sunweb,,,25:0525:05,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+63,64,70.0,+1:23:59,38,TRATNIK Jan,30,Bahrain - McLaren,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+64,65,94.0,+1:45:52,14,CHIRICO Luca,28,Androni Giocattoli - Sidermec,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+65,66,46.0,+1:00:56,27,RODRÍGUEZ Óscar,25,Astana Pro Team,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+66,67,34.0,+42:46,148,VILLELLA Davide,29,Movistar Team,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+67,68,87.0,+1:39:07,214,ROTA Lorenzo,25,Vini Zabù - KTM,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+68,69,52.0,+1:06:33,5,HÄNNINEN Jaakko,23,AG2R La Mondiale,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+69,70,27.0,+32:08,8,WARBASSE Larry,30,AG2R La Mondiale,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+70,71,97.0,+1:50:02,62,ČERNÝ Josef,27,CCC Team,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+71,72,53.0,+1:06:44,151,MEINTJES Louis,28,NTT Pro Cycling,,,",,25:05",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+72,73,57.0,+1:10:38,164,GANNA Filippo,24,INEOS Grenadiers,,,29:4429:44,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+73,74,71.0,+1:24:36,78,ROSSETTO Stéphane,33,"Cofidis, Solutions Crédits",,,",,29:44",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+74,75,64.0,+1:16:07,122,DE GENDT Thomas,33,Lotto Soudal,,,30:3130:31,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+75,76,67.0,+1:17:40,124,HAGEN Carl Fredrik,29,Lotto Soudal,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+76,77,86.0,+1:37:39,46,ROMANO Francesco,23,Bardiani-CSF-Faizanè,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+77,78,72.0,+1:26:00,211,VISCONTI Giovanni,37,Vini Zabù - KTM,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+78,79,58.0,+1:12:31,41,CARBONI Giovanni,25,Bardiani-CSF-Faizanè,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+79,80,98.0,+1:50:11,17,RESTREPO Jhonatan,25,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+80,81,75.0,+1:28:53,16,RAVANELLI Simone,25,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+81,82,89.0,+1:39:32,18,RUMAC Josip,25,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+82,83,85.0,+1:37:26,34,CAPECCHI Eros,34,Bahrain - McLaren,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+83,84,88.0,+1:39:28,13,CEPEDA Jefferson Alexander,22,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+84,85,74.0,+1:26:46,142,CATALDO Dario,35,Movistar Team,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+85,86,55.0,+1:09:32,195,CONCI Nicola,23,Trek - Segafredo,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+86,87,56.0,+1:10:02,121,ARMÉE Sander,34,Lotto Soudal,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+87,88,110.0,+2:04:55,11,BAIS Mattia,23,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+88,89,76.0,+1:29:45,51,SAGAN Peter,30,BORA - hansgrohe,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+89,90,102.0,+1:53:36,53,BODNAR Maciej,35,BORA - hansgrohe,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+90,91,125.0,+2:25:00,157,SUNDERLAND Dylan,24,NTT Pro Cycling,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+91,92,92.0,+1:40:45,158,WYSS Danilo,35,NTT Pro Cycling,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+92,93,59.0,+1:13:57,32,BATTAGLIN Enrico,30,Bahrain - McLaren,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+93,94,124.0,+2:24:17,97,MORTON Lachlan,28,EF Pro Cycling,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+94,95,121.0,+2:20:11,98,WHELAN James,24,EF Pro Cycling,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+95,96,96.0,+1:47:10,12,BISOLTI Alessandro,35,Androni Giocattoli - Sidermec,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+96,97,61.0,+1:15:15,144,RUBIO Einer Augusto,22,Movistar Team,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+97,98,51.0,+1:06:17,25,GREGAARD Jonas,24,Astana Pro Team,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+98,99,112.0,+2:10:42,23,CONTRERAS Rodrigo,26,Astana Pro Team,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+99,100,69.0,+1:23:00,7,VENDRAME Andrea,26,AG2R La Mondiale,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+100,101,90.0,+1:40:02,31,ARASHIRO Yukiya,36,Bahrain - McLaren,,,",,30:31",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+101,102,45.0,+56:50,204,DOMBROWSKI Joe,29,UAE-Team Emirates,,,30:3930:39,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+102,103,93.0,+1:43:36,153,GHEBREIGZABHIER Amanuel,26,NTT Pro Cycling,,,34:0634:06,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+103,104,101.0,+1:50:22,141,CARRETERO Héctor,25,Movistar Team,,,34:1934:19,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+104,105,78.0,+1:31:22,3,BOUCHARD Geoffrey,28,AG2R La Mondiale,,,",,34:19",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+105,106,135.0,+2:29:49,112,BRÄNDLE Matthias,30,Israel Start-Up Nation,,,34:2834:28,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+106,107,126.0,+2:25:37,114,CIMOLAI Davide,31,Israel Start-Up Nation,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+107,108,122.0,+2:20:23,118,ZABEL Rick,26,Israel Start-Up Nation,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+108,109,81.0,+1:32:40,102,FRANKINY Kilian,26,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+109,110,133.0,+2:29:36,213,FRAPPORTI Marco,35,Vini Zabù - KTM,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+110,111,106.0,+2:03:22,203,CONTI Valerio,27,UAE-Team Emirates,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+111,112,141.0,+2:42:46,77,MATHIS Marco,26,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+112,113,103.0,+1:55:43,127,OLDANI Stefano,22,Lotto Soudal,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+113,114,111.0,+2:06:07,64,GRADEK Kamil,30,CCC Team,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+114,115,77.0,+1:29:58,47,TONELLI Alessandro,28,Bardiani-CSF-Faizanè,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+115,116,138.0,+2:33:50,215,SPREAFICO Matteo,27,Vini Zabù - KTM,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+116,117,117.0,+2:16:56,106,SCOTSON Miles,26,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+117,118,143.0,+2:55:31,123,DIBBEN Jonathan,26,Lotto Soudal,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+118,119,137.0,+2:31:13,212,BEVILACQUA Simone,23,Vini Zabù - KTM,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+119,120,115.0,+2:12:38,48,ZANA Filippo,21,Bardiani-CSF-Faizanè,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+120,121,113.0,+2:11:56,72,CONSONNI Simone,26,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+121,122,128.0,+2:26:14,115,DOWSETT Alex,32,Israel Start-Up Nation,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+122,123,104.0,+2:00:08,73,EDET Nicolas,32,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+123,124,120.0,+2:19:39,74,HAAS Nathan,31,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+124,125,82.0,+1:33:13,218,ZARDINI Edoardo,30,Vini Zabù - KTM,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+125,126,119.0,+2:18:55,71,VIVIANI Elia,31,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+126,127,127.0,+2:25:51,205,GAVIRIA Fernando,26,UAE-Team Emirates,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+127,128,130.0,+2:27:49,44,LONARDI Giovanni,23,Bardiani-CSF-Faizanè,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+128,129,123.0,+2:22:59,101,DÉMARE Arnaud,29,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+129,130,129.0,+2:27:14,103,GUARNIERI Jacopo,33,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+130,131,116.0,+2:15:24,43,FIORELLI Filippo,25,Bardiani-CSF-Faizanè,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+131,132,136.0,+2:30:35,45,MAZZUCCO Fabio,21,Bardiani-CSF-Faizanè,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+132,133,134.0,+2:29:41,104,GUGLIELMI Simon,23,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+133,134,65.0,+1:16:20,92,CAICEDO Jonathan Klever,27,EF Pro Cycling,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+134,135,109.0,+2:04:40,76,LE TURNIER Mathias,25,"Cofidis, Solutions Crédits",,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+135,136,142.0,+2:55:26,117,SAGIV Guy,25,Israel Start-Up Nation,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+136,137,131.0,+2:29:06,207,MOLANO Juan Sebastián,25,UAE-Team Emirates,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+137,138,132.0,+2:29:33,105,KONOVALOVAS Ignatas,34,Groupama - FDJ,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+138,139,139.0,+2:36:33,83,HODEG Álvaro José,24,Deceuninck - Quick Step,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+139,140,107.0,+2:03:23,126,HOLMES Matthew,26,Lotto Soudal,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+140,141,25.0,+31:45,128,VANHOUCKE Harm,23,Lotto Soudal,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+141,142,114.0,+2:12:04,125,HANSEN Adam,39,Lotto Soudal,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+142,143,140.0,+2:40:34,85,KEISSE Iljo,37,Deceuninck - Quick Step,,,",,34:28",Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11
+143,DNF,,,113,CATAFORD Alexander,27,Israel Start-Up Nation,,,-,Giro_d_Italia,12,15 October 2020,36.93 km/h,136,204 km,11

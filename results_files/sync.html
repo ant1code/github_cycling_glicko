@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<!-- saved from url=(0465)https://pre.ads.justpremium.com/v/1.0/t/sync?_c=ale3o71616492117575&consentString=CPDgRXsPDgRXsAKAcAENBSCsAP_AAH_AABpYHnNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_78_9_z__-__v__79f_r-3_3_vp9X-%2D-_e_V399xLv9cDygCTDUvgAsxLHBkmjSqFECEK4kOgFABRQjC0TWEDK4KdlcBHqCBgAgNQEYEQIMQUYsAgAAAgCSiICQA8EAiAIgEAAIAVICEABEwCCwAsDAIABQDQsQIoAhAkIMjgqOUwICJFooJ5KwBKLvY0whDKLACgUf0VGAiUIIFgAA.d4AACHgAAAAA -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <title>Justpremium Sync Pixel</title>
+    <link rel="icon" href="data:;base64,iVBORw0KGgo=">
+</head>
+<body marginwidth="0" marginheight="0">
+<script>
+    function getTrackUrl(ssp) {
+        var scope = window;
+        var trParams = '?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624'
+            + '&sid=&uid=r-18344eb3-3392-4e00-9884-833e1651c034-7749-919125960&vr='
+            + '&ru=https%3A%2F%2Fwww.procyclingstats.com%2F'
+            + '&tt=' + new Date().getTime()
+            + '&siw=0'
+            + '&sh='+ scope.screen.height
+            + '&sw=' + scope.screen.width
+            + '&wh=' + scope.innerHeight
+            + '&ww=' + scope.innerWidth
+            + '&an=pixel'
+            + '&vn=eu-central-1'
+            + '&sd='
+            + '&_c=' + Math.floor((Math.random() * Math.pow(2, 32)) + 1).toString()
+            + '&et=&aid=&said=&ei=&fc=&sp=&at=&cid=0&ist=&mg=&dl=&dlt=&ev=&vt=&zid=0&dr=0&di=&pr=&cw=&ch=&nt=&st='
+            + '&jp=%7B%22jpuid%22%3A%22r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151%22%2C%22ssp%22%3A%22SSP_VAR%22%7D'
+            + '&ty=cu';
+        trParams = trParams.replace('SSP_VAR', ssp);
+        return 'https://tracking.justpremium.com/tracking.gif' + trParams;
+    }
+
+    function pixelTracking(ssp) {
+        var url = getTrackUrl(ssp);
+        var imgPixel = window.document.createElement("img");
+        imgPixel.style.position = "fixed";
+        imgPixel.style.left = "-9999px";
+        imgPixel.style.top = "-9999px";
+        imgPixel.style.width = "1px";
+        imgPixel.style.height = "1px";
+        imgPixel.src = url;
+        window.document.body.appendChild(imgPixel);
+    }
+
+
+    if (false) {
+        var i = document.createElement('iframe');
+        i.setAttribute('frameBorder', 0);
+        i.src = 'https://u.openx.net/w/1.0/cm?gdpr=1&gdpr_consent=CPDgRXsPDgRXsAKAcAENBSCsAP_AAH_AABpYHnNf_X__b39j-_59_9t0eY1f9_7_v-0zjhfds-8N2f_X_L8X42M7vF36pq4KuR4Eu3LBIQFlHOHUTUmw6okVrTPsak2Mr7NKJ7LEinMbe2dYGHtfn91TuZKYr_78_9_z__-__v__79f_r-3_3_vp9X---_e_V399xLv9cDygCTDUvgAsxLHBkmjSqFECEK4kOgFABRQjC0TWEDK4KdlcBHqCBgAgNQEYEQIMQUYsAgAAAgCSiICQA8EAiAIgEAAIAVICEABEwCCwAsDAIABQDQsQIoAhAkIMjgqOUwICJFooJ5KwBKLvY0whDKLACgUf0VGAiUIIFgAA.d4AACHgAAAAA&id=fa4f7893-4738-4b38-9fc3-0dca639c806d&ph=26e53f82-d199-49df-9eca-7b350c0f9646&r=' + encodeURIComponent('https://euc1-match.justpremium.com/match/ox?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624&jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid=');
+        window.document.body.appendChild(i);
+    }
+    if (true) {
+        var iid = document.createElement('img');
+        iid.setAttribute('src', 'https://ad.360yield.com/server_match?r=' + encodeURIComponent('https://euc1-match.justpremium.com/match/id?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624&jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid={PUB_USER_ID}&partner_id=2'));
+        window.document.body.appendChild(iid);
+    }
+    if (false) {
+        var anx = document.createElement('img');
+        anx.setAttribute('src', 'https://ib.adnxs.com/getuid?https://euc1-match.justpremium.com/match/an?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624&jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid=$UID');
+        window.document.body.appendChild(anx);
+    }
+    if (true) {
+        var unruly = document.createElement('img');
+        unruly.setAttribute('src', 'https://sync.1rx.io/usersync2/rmpssp?sub=justpremium&redir=' + encodeURIComponent('https://euc1-match.justpremium.com/match/un?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624&jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid=[RX_UUID]'));
+        window.document.body.appendChild(unruly);
+    }
+    if (true) {
+        var sptx = document.createElement('img');
+        sptx.setAttribute('src', 'https://sync.search.spotxchange.com/partner?adv_id=8590&redir=' + encodeURIComponent('https://euc1-match.justpremium.com/match/spx?rid=r-15bad3e5-c42c-4732-bcdd-ee2eec67288a-7028-440703624&jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid=$SPOTX_USER_ID'));
+        window.document.body.appendChild(sptx);
+    }
+    if (false) {
+        var index = document.createElement('iframe');
+        index.setAttribute('frameBorder', 0);
+        index.setAttribute('src', 'https://ssum.casalemedia.com/usermatch?s=189872&cb=' + encodeURIComponent('https://euc1-match.justpremium.com/match/ie?jp_uid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151&ex_uid='));
+        window.document.body.appendChild(index);
+    }
+    if (true) {
+        var audigent = document.createElement('img');
+        audigent.setAttribute('src', 'https://ids.ad.gt/api/v1/put/jpm?jpmid=r-7fd1e41a-47b9-43d7-99f4-d22b4fc5d21e-31544-966263151');
+        window.document.body.appendChild(audigent);
+    }
+
+</script><img src="./server_match"><img src="./rmpssp"><img src="./partner"><img src="./jpm">
+
+
+</body></html>

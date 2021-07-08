@@ -1,0 +1,315 @@
+$(document).ready(function(){
+  
+  var pageWidth = $('.content').outerWidth();
+  var cumu = 0;
+  $('.page-topnav ul li.reg').each(function(i) {
+    var $this = $(this);
+    var width = $this.outerWidth();
+    cumu += width;
+    if(cumu>pageWidth-80){
+      $(this).hide(); 
+      $('.page-topnav ul li.more').show();
+    }
+    else{
+      $('.page-topnav ul li.more ul li[data-n='+i+']').hide();
+    }    
+  });
+
+  $( ".datepicker" ).datepicker({ dateFormat: "dd-mm-yy" }); 
+  $( ".datepickerNormal" ).datepicker({ dateFormat: "yy-mm-dd" }); 
+
+  $(document).mouseup(function (e){
+      var container = $(".nav_v4");
+      if (!container.is(e.target) // if the target of the click isn't the container...
+          && container.has(e.target).length === 0) // ... nor a descendant of the container
+      {
+          //container.hide();
+          $(".nav_v4 li ul").removeClass('show').addClass('hide'); 
+      }
+  }); 
+
+  $(".toggleNavDropdown").click(function(e){
+    e.preventDefault();  
+    $(this).parent("li").siblings().find("ul").removeClass('show').addClass('hide'); // hide other dropdowns
+    $(this).parent("li").find("ul").toggleClass('hide show'); // toggle hide/show
+  }); 
+
+  $('.mobMenu').click(function(e){
+    e.preventDefault();
+    $('.nav_v4').toggleClass('default');
+  });
+
+  /* autosearch */
+  $("#search").autocomplete({
+    
+    source: function(request, response) { 
+      $.getJSON("resources/search.php", { searchfrom: $("#search").attr("data-searchfrom"), term: $("#search").val() },     response);
+    },
+    minLength: 1,
+    delay: 500,
+    select: function(event, ui){  
+      window.location.href = ui.item.id
+    }
+  });
+ 
+ 
+  $('.toggleNextDiv').click(function(e){   e.preventDefault();   $(this).next().toggleClass('hide show');   });  
+  $(".menu-toggle").click(function(e){   e.preventDefault();      $(".page-object").toggleClass('default');        $(".page-nav").toggleClass('default');   });
+  $(".expand-list").click(function(e){  e.preventDefault();  $('ul[data-listcode="'+$(this).data('listcode')+'"] li').show();  $(this).remove(); });
+ 
+  $(document).on("click", '.showFullList' ,function(e) { 
+    e.preventDefault();
+    $(this).parent('div').find('table tr').show();
+    $(this).parent('div').find('ul li').show();
+    $(this).hide();
+  });
+
+  $(document).on("change", '.selectOperator' ,function(e) { 
+    e.preventDefault();
+    if($(this).val()=='between'){  $(this).parents('li').find('input').show();  } 
+  });
+
+  $( ".toggleMoreFilters" ).click(function(e){   e.preventDefault(); $(this).hide(); $(this).parents('ul').find('li').show();  $(this).parent('span').find('input').val('1');  });
+  
+  /* race functions */
+  function TimeWonLost($this){
+    var alpha = parseInt($this.data('s1')) - parseInt($this.data('s2'));
+    $( "a.TimeWonLostFromRider" ).each(function( index ) {
+      var beta = parseInt($(this).data('s1')) - parseInt($(this).data('s2'));
+      var delta = alpha - beta;
+      if(delta == 0){ var txt = 'st'; }
+      else if(delta>0){  var txt = '<span class="green">+'+SecondToTime(delta,1)+'</span>';  }
+      else if(delta<0){  var txt = '<span class="red">-'+SecondToTime(Math.abs(delta),1)+'</span>';  }
+      $(this).html(txt);
+    });
+  }
+
+  $(".TimeWonLostFromRider").click(function(e){   e.preventDefault();   TimeWonLost($(this));  }); 
+
+  $(document).on("click",".restabs a",function(e){
+    e.preventDefault(); 
+    if($(this).data('st') == 5 || $(this).data('st') == 7){  $('.toggles').hide(); $('.toggleDeltaPoints-label').show(); }
+    else if($(this).data('st') == 4){  $('.toggles').hide(); $('.toggleWonLost-label').show();  TimeWonLost($(".TimeWonLostFromRider").first());  }
+    else if($(this).data('st') < 4){  $('.toggles').hide(); $('.toggleGC-label').show();  }
+    else{ $('.toggles').hide(); }
+
+    history.pushState("string", "page", $(this).attr('href')); 
+    $('.result-cont').hide(); 
+    $('.result-cont[data-id='+$(this).data('id')+']').show();
+    $('.restabs li').removeClass('cur');
+    $(this).parent('li').addClass('cur');
+  });
+
+  $(document).on("change",".toggleAge",function(e){     e.preventDefault();     if ($(this).is(':checked')) { $('.age').show();  }else{  $('.age').hide();  }   });
+  $(document).on("change",".toggleBibs",function(e){      e.preventDefault();     if ($(this).is(':checked')) { $('.bibs').show();  }else{  $('.bibs').hide();  }   });
+  $(document).on("change",".toggleGC",function(e){      e.preventDefault();     if ($(this).is(':checked')) { $('.gc').show();  }else{  $('.gc').hide();  }   });
+  $(document).on("change",".toggleDeltaPoints",function(e){     e.preventDefault();     if ($(this).is(':checked')) { $('.delta_pnt').show();  }else{  $('.delta_pnt').hide();  }   });
+  $(document).on("change",".toggleWonLost",function(e){     e.preventDefault();   $('.timeWonLostComment').show();  if ($(this).is(':checked')) { $('.time_wonlost').show();  }else{  $('.time_wonlost').hide();  }   });
+  $(document).on("click",".viewMoreResults",function(e){      e.preventDefault();     $(this).parents('div.result-cont').find('tbody tr:lt('+$(this).data('n')+')').show();  });
+  $(".showDiv").click(function(e){    e.preventDefault();    $("div[data-id="+$(this).attr('data-id')+"]").show();    $(this).hide();  });
+  
+  $(document).on("click",".clearFilter",function(e){    e.preventDefault();   $(this).hide(); $('.results tbody tr').show();  $('td.time div').hide();   $('td.time span').show();    });
+
+  $( ".TNFilter" ).change(function(e){  
+    if($(this).val()==0){ $('.results tbody tr').show();  $('td.time div').hide();   $('td.time span').show(); $('.clearFilter').hide(); }
+    else{
+      $('.clearFilter').show();
+      $('.results tbody tr').hide();
+      var prevtime = '';
+      $('.results tbody tr[data-'+$(this).data('type')+'='+$(this).val()+']').each(function(index){ 
+        var curtime = $(this).find('td.time div').text();
+        $(this).show();
+        $(this).find('td.time span').hide();
+        $(this).find('td.time div').show();
+        if(curtime == prevtime){ $(this).find('td.time div').text(',,'); }
+        prevtime = curtime;
+      }); 
+    }
+  });    
+
+  // miscalaneous
+
+  $(document).on("click",".follow",function(e){
+    e.preventDefault();
+    var $link = $(this);
+    if($(this).attr('data-follow')==1){ var follow = 0;  }else{ var follow = 1;  }  
+    $.ajax({ method: "POST", url: "resources/follow.php", data: { type: $(this).data('type'), entry_id: $(this).data('entry_id'), follow: follow  }   })
+    .done(function( response ) {    $link.attr('data-follow',response);   })
+    .fail(function(data) {   console.log('error');   });
+  });
+
+  $(".lrFilter.race").click(function(e){ e.preventDefault(); $(".lrFilter").removeClass('cur'); $(this).addClass('cur'); $('.main-results li').hide(); $('.main-results li[data-edition_id="'+$(this).data('edition_id')+'"]').show(); });
+  $(".lrFilter.classic").click(function(e){   e.preventDefault(); $(".lrFilter").removeClass('cur'); $(this).addClass('cur');   $('.main-results li').hide(); $('.main-results li[data-classic="1"]').show();  });
+  $(".lrFilter.category").click(function(e){   e.preventDefault(); $(".lrFilter").removeClass('cur'); $(this).addClass('cur'); $('.main-results li').hide(); $('.main-results li[data-category="'+$(this).data('category')+'"]').show();  });
+  
+  $(".situShowMore").click(function(e){   e.preventDefault();  $("div.moreInfoCont").hide(); $(this).parent('div').find("div.moreInfoCont").show().css('z-index',51);  });
+
+  $(".infographicStyle").click(function(e){  e.preventDefault(); $(this).remove(); $('div.tableCont').addClass('infographic');  })
+
+  $(".selectTabView").click(function(e){
+    e.preventDefault();
+    $(".selectTabView").parent('li').removeClass('cur'); 
+    var tabs = $(this).data('tabs').split(',');
+    $("td.hide").hide();
+    $("th.hide").hide();
+    for(var i=0; i<tabs.length; i++){
+      $("td[data-tab="+tabs[i]+"]").show();
+      $("th[data-tab="+tabs[i]+"]").show();
+    }
+    $(this).parent('li').addClass('cur');
+
+  });
+
+
+  $(document).on("change", '.toggle_chart' ,function(e) {
+        e.preventDefault();
+        console.log('test');
+        if ($(this).is(":checked")){ 
+          $('svg g[data-n='+$(this).data('n')+']').show();
+        }
+        else{ 
+          $('svg g[data-n='+$(this).data('n')+']').hide();
+        }
+  });
+
+
+  $( ".graphPoints" )
+  .mouseover(function() { 
+    $(".graphPointInfo[data-vid="+$(this).data('vid')+"]").show();
+  })
+  .mouseout(function() { 
+    $(".graphPointInfo").hide();
+  });
+
+
+  $( ".hoverCountryMapSegment" )
+  .mouseover(function() { 
+    $(".CountryMapSegmentInfo[data-vid="+$(this).data('vid')+"]").show();
+  })
+  .mouseout(function() { 
+    $(".CountryMapSegmentInfo").hide();
+  });
+
+  $("#AjaxSearch").autocomplete({
+    source: function(request, response) {   
+      console.log('zoek'+$("#AjaxSearch").data('code')); 
+      $.getJSON("https://www.procyclingstats.com/dataservice.php", { code: $("#AjaxSearch").data('code'), term: $("#AjaxSearch").val() },     response);    
+    }, 
+    autoFocus: true,
+    minLength: 1,
+    select: function(event, ui){        window.location.href = ui.item.id    }
+  });
+
+  function GeneralAutoSearch(code,inputname){  
+    $('.generalAutoSearch').autocomplete({
+      source: function (request, response) {      var term = request.term;        $.getJSON("dataservice.php", { code: code, term: term },     response);      
+      }, autoFocus: true,
+      select: function (event, ui){       $('input[name="'+inputname+'"]').val(ui.item.id);      }
+    });
+  }
+  $(document).on("focus",".generalAutoSearch",function(e){   e.preventDefault();    GeneralAutoSearch($(this).data('code'),$(this).data('inputname'));  });
+
+
+  $(document).on("click",".tabnav",function(e){
+    e.preventDefault();
+   // $(".restabs li").removeClass('cur');
+    $(this).parents('ul').find('li').removeClass('cur');
+    $(this).parent("li").addClass('cur');
+    var id = $(this).attr('data-id');
+    $(".subreslinks").hide();
+    $(".subreslinks[data-id="+id+"]").show();
+  });
+
+
+
+});
+
+function UpdateTimeAgo4(cur_ts,counter){
+
+  $(".timeago").each(function(index){
+      var sec = cur_ts - parseInt($(this).data('ts')) + counter; 
+      if(sec>0 && sec<7200){
+        if(sec<60){  var str = sec+'s';  }else{  var str = Math.floor(sec/60)+'m';  }          
+        $(this).text(str); 
+      }
+  }); 
+} 
+
+function SecondToTime(seconds,stripzeros=0){
+  var date = new Date(null);  
+  if(seconds>0){
+    date.setSeconds(seconds); // specify value for SECONDS here
+    var result = date.toISOString().substr(11, 8);    
+    if(stripzeros==1){
+      if(result.substr(0,4) == "00:0"){  result = result.substr(4,9);  }
+      else if(result.substr(0,3) == "00:"){  result = result.substr(3,9);  }
+    }   
+  }
+  else{ var result = '0:00';   }
+  return result;
+}
+
+function SecToTime(seconds){
+  var h = Math.floor(seconds/3600);
+  if(h<10){  var h = '0'+h;  }
+  var m = Math.floor((seconds - h*3600)/60);
+  if(m<10){  var m = '0'+m; }
+  var s = seconds - h*3600 - m*60;
+  if(s<10){  var s = '0'+s;  }
+  var time = h+':'+m+':'+s;
+  return time;
+}
+
+function TimeToSeconds(time){
+  var a = time.split(':'); // split it at the colons 
+  if(a.length==2){  var seconds = a[0]*60 + parseInt(a[1]);     }
+  else{  var seconds = (+a[0]) * 60 * 60 + (+a[1]) * 60 + (+a[2]);  }
+  return seconds;
+}
+
+function makeid(lengte) {
+  var text = "";
+  var possible = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+  for (var i = 0; i < lengte; i++)
+    text += possible.charAt(Math.floor(Math.random() * possible.length));
+  return text;
+}
+
+function AnimateNrViewing($this,to){
+    $this.prop('Counter',$this.text()).animate({
+        Counter: to
+    }, {
+        duration: 2000,
+        easing: 'swing',
+        step: function (now) {
+            $this.text(Math.ceil(now));
+        }
+    });
+}  
+
+
+function getUrlParameter(sParam, sUrl) {
+  var sPageURL = sUrl.replace('?','&');
+  var sURLVariables = sPageURL.split('&');
+  for (var i = 0; i < sURLVariables.length; i++) 
+  {
+      var sParameterName = sURLVariables[i].split('=');
+      if (sParameterName[0] == sParam) 
+      {
+          return sParameterName[1];
+      }
+  }
+} 
+
+function GetYPositionOnX_V2(xy,x){
+  var y = 0;
+  if(xy!=null){
+    for(var k=1; k<xy.length; k++){  
+      var a=xy[(k-1)]; 
+      var b=xy[k];  
+      if(b['x']>x){  var y = a['y'] + (x-a['x'])/(b['x']-a['x']) * (b['y']-a['y']);  break;   }  
+    } 
+  }
+  return y;
+}
+ 

@@ -1,0 +1,150 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Avg,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,2,+0:23,71,PINOT Thibaut,25,FDJ,60.0,50.0,0:20:21,44.55,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+1,2,5,+0:50,171,DUMOULIN Tom,25,Team Giant - Alpecin,25.0,30.0,0:020:02,44.478,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+2,3,62,+11:38,43,JUNGELS Bob,23,Etixx - Quick Step,10.0,18.0,0:090:09,44.224,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+3,4,81,+17:50,21,FROOME Chris,30,Team Sky,,13.0,",,0:09",44.224,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+4,5,27,+3:23,132,COPPEL Jérôme,29,IAM Cycling,,10.0,",,0:09",44.224,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+5,6,1,+0:00,51,QUINTANA Nairo,26,Movistar Team,,7.0,",,0:09",44.224,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+6,7,3,+0:26,8,ZAKARIN Ilnur,26,Team Katusha,,4.0,0:170:17,43.93899999999999,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+7,8,4,+0:29,56,IZAGIRRE Ion,27,Movistar Team,,3.0,0:180:18,43.903,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+8,9,35,+5:02,75,MORABITO Steve,33,FDJ,,2.0,0:220:22,43.762,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+9,10,76,+16:37,13,BOARO Manuele,29,Tinkoff,,1.0,0:250:25,43.656000000000006,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+10,11,9,+1:22,36,VAN GARDEREN Tejay,27,BMC Racing Team,,,",,0:25",43.656000000000006,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+11,12,46,+7:39,74,GENIEZ Alexandre,28,FDJ,,,0:260:26,43.621,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+12,13,77,+16:46,175,LUDVIGSSON Tobias,25,Team Giant - Alpecin,,,0:300:30,43.482,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+13,14,95,+21:21,133,DEVENYNS Dries,32,IAM Cycling,,,0:330:33,43.378,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+14,15,12,+1:25,76,REICHENBACH Sébastien,26,FDJ,,,",,0:33",43.378,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+15,16,75,+15:57,66,IMPEY Daryl,31,Orica GreenEDGE,,,0:360:36,43.273999999999994,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+16,17,7,+1:11,1,ŠPILAK Simon,29,Team Katusha,,,0:380:38,43.206,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+17,18,47,+7:44,125,MOSER Moreno,25,Cannondale Pro Cycling Team,,,",,0:38",43.206,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+18,19,6,+1:06,131,FRANK Mathias,29,IAM Cycling,,,",,0:38",43.206,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+19,20,18,+2:15,65,HOWSON Damien,23,Orica GreenEDGE,,,0:390:39,43.17100000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+20,21,63,+11:56,134,HOLLENSTEIN Reto,30,IAM Cycling,,,0:400:40,43.137,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+21,22,59,+9:51,94,KEIZER Martijn,28,Team LottoNL-Jumbo,,,0:440:44,43.001000000000005,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+22,23,10,+1:23,11,MAJKA Rafał,26,Tinkoff,,,0:450:45,42.967,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+23,24,8,+1:12,111,COSTA Rui,29,Lampre - Merida,,,",,0:45",42.967,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+24,25,79,+17:21,78,ROY Jérémy,32,FDJ,,,",,0:45",42.967,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+25,26,24,+3:18,33,BOOKWALTER Brent,32,BMC Racing Team,,,0:460:46,42.933,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+26,27,20,+2:26,34,CARUSO Damiano,28,BMC Racing Team,,,0:480:48,42.865,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+27,28,61,+11:22,54,HERRADA Jesús,25,Movistar Team,,,",,0:48",42.865,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+28,29,11,+1:24,81,MOLLEMA Bauke,29,Trek - Segafredo,,,0:490:49,42.831,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+29,30,78,+17:02,7,VOROBYEV Anton,25,Team Katusha,,,0:510:51,42.763999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+30,31,17,+2:09,91,KELDERMAN Wilco,25,Team LottoNL-Jumbo,,,0:540:54,42.663999999999994,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+31,32,121,+26:48,157,WESTRA Lieuwe,33,Astana Pro Team,,,",,0:54",42.663999999999994,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+32,33,120,+26:39,64,HEPBURN Michael,24,Orica GreenEDGE,,,0:560:56,42.597,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+33,34,37,+5:21,52,AMADOR Andrey,29,Movistar Team,,,",,0:56",42.597,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+34,35,67,+12:45,173,HAGA Chad,27,Team Giant - Alpecin,,,0:590:59,42.497,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+35,36,14,+1:48,28,THOMAS Geraint,29,Team Sky,,,",,0:59",42.497,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+36,37,15,+1:57,106,VALLS Rafael,28,Lotto Soudal,,,",,0:59",42.497,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+37,38,141,+29:33,95,LAMMERTINK Steven,22,Team LottoNL-Jumbo,,,1:001:00,42.464,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+38,39,28,+3:26,158,ZEITS Andrey,29,Astana Pro Team,,,1:011:01,42.431000000000004,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+39,40,118,+25:17,128,TALANSKY Andrew,27,Cannondale Pro Cycling Team,,,",,1:01",42.431000000000004,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+40,41,19,+2:17,147,LATOUR Pierre,22,AG2R La Mondiale,,,1:021:02,42.398,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+41,42,39,+5:44,87,HESJEDAL Ryder,35,Trek - Segafredo,,,1:051:05,42.299,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+42,43,13,+1:44,127,ROLLAND Pierre,29,Cannondale Pro Cycling Team,,,1:101:10,42.135,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+43,44,96,+21:47,32,BOHLI Tom,22,BMC Racing Team,,,",,1:10",42.135,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+44,45,97,+21:51,96,VAN EMDEN Jos,31,Team LottoNL-Jumbo,,,1:111:11,42.102,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+45,46,41,+5:48,63,HAIG Jack,22,Orica GreenEDGE,,,",,1:11",42.102,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+46,47,22,+2:40,55,IZAGIRRE Gorka,28,Movistar Team,,,1:131:13,42.037,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+47,48,32,+4:33,101,MONFORT Maxime,33,Lotto Soudal,,,",,1:13",42.037,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+48,49,66,+12:44,176,PREIDLER Georg,25,Team Giant - Alpecin,,,1:141:14,42.005,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+49,50,98,+21:58,126,NAVARDAUSKAS Ramūnas,28,Cannondale Pro Cycling Team,,,1:151:15,41.972,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+50,51,80,+17:37,117,MOHORIČ Matej,21,Lampre - Merida,,,1:161:16,41.94,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+51,52,25,+3:19,47,VERONA Carlos,23,Etixx - Quick Step,,,1:211:21,41.778999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+52,53,124,+27:28,77,ROUX Anthony,29,FDJ,,,",,1:21",41.778999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+53,54,99,+22:10,165,MEYER Cameron,28,Team Dimension Data,,,",,1:21",41.778999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+54,55,91,+19:02,23,NIEVE Mikel,31,Team Sky,,,1:221:22,41.747,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+55,56,31,+4:02,35,MOINARD Amaël,34,BMC Racing Team,,,1:231:23,41.715,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+56,57,103,+22:31,104,DE GENDT Thomas,29,Lotto Soudal,,,1:241:24,41.683,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+57,58,53,+8:36,142,BAKELANTS Jan,30,AG2R La Mondiale,,,",,1:24",41.683,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+58,59,123,+27:14,146,GRETSCH Patrick,29,AG2R La Mondiale,,,1:251:25,41.651,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+59,60,122,+27:00,85,BOBRIDGE Jack,26,Trek - Segafredo,,,1:261:26,41.619,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+60,61,54,+8:42,68,MEIER Christian,31,Orica GreenEDGE,,,",,1:26",41.619,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+61,62,45,+7:31,18,TROFIMOV Yuri,32,Tinkoff,,,",,1:26",41.619,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+62,63,101,+22:23,93,HOFLAND Moreno,24,Team LottoNL-Jumbo,,,1:271:27,41.586999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+63,64,64,+12:14,152,LÓPEZ Miguel Ángel,22,Astana Pro Team,,,1:291:29,41.523999999999994,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+64,65,30,+3:53,16,POLJAŃSKI Paweł,25,Tinkoff,,,",,1:29",41.523999999999994,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+65,66,105,+22:48,73,ELISSONDE Kenny,24,FDJ,,,1:311:31,41.46,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+66,67,34,+4:44,3,KOCHETKOV Pavel,30,Team Katusha,,,",,1:31",41.46,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+67,68,69,+13:11,115,GRMAY Tsgabu,24,Lampre - Merida,,,1:321:32,41.428999999999995,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+68,69,16,+2:09,121,URÁN Rigoberto,29,Cannondale Pro Cycling Team,,,",,1:32",41.428999999999995,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+69,70,26,+3:21,191,GASPAROTTO Enrico,34,Wanty - Groupe Gobert,,,",,1:32",41.428999999999995,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+70,71,68,+13:05,88,STETINA Peter,28,Trek - Segafredo,,,1:331:33,41.397,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+71,72,51,+8:15,38,WYSS Danilo,30,BMC Racing Team,,,",,1:33",41.397,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+72,73,55,+8:57,15,KIŠERLOVSKI Robert,29,Tinkoff,,,1:341:34,41.36600000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+73,74,70,+13:24,145,GASTAUER Ben,28,AG2R La Mondiale,,,",,1:34",41.36600000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+74,75,104,+22:33,25,PUCCIO Salvatore,26,Team Sky,,,",,1:34",41.36600000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+75,76,50,+8:03,61,ALBASINI Michael,35,Orica GreenEDGE,,,",,1:34",41.36600000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+76,77,43,+6:21,118,POLANC Jan,23,Lampre - Merida,,,1:351:35,41.333999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+77,78,94,+20:18,192,BILLE Gaëtan,28,Wanty - Groupe Gobert,,,1:371:37,41.272,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+78,79,36,+5:11,122,BROWN Nathan,24,Cannondale Pro Cycling Team,,,1:381:38,41.24,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+79,80,102,+22:29,48,WIŚNIOWSKI Łukasz,24,Etixx - Quick Step,,,1:391:39,41.208999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+80,81,82,+17:52,105,MARCZYŃSKI Tomasz,32,Lotto Soudal,,,",,1:39",41.208999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+81,82,42,+6:00,162,BERHANE Natnael,25,Team Dimension Data,,,1:411:41,41.147,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+82,83,56,+8:57,103,DE CLERCQ Bart,29,Lotto Soudal,,,1:421:42,41.11600000000001,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+83,84,85,+18:17,102,ARMÉE Sander,30,Lotto Soudal,,,1:471:47,40.961000000000006,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+84,85,44,+6:39,161,SIUTSOU Kanstantsin,33,Team Dimension Data,,,1:481:48,40.93,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+85,86,88,+18:25,98,VERMEULEN Alexey,21,Team LottoNL-Jumbo,,,",,1:48",40.93,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+86,87,52,+8:17,42,BOUET Maxime,29,Etixx - Quick Step,,,",,1:48",40.93,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+87,88,100,+22:22,41,KITTEL Marcel,27,Etixx - Quick Step,,,1:491:49,40.899,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+88,89,49,+8:00,187,PIRES Bruno,34,Team Roth,,,",,1:49",40.899,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+89,90,115,+24:05,193,CLAEYS Dimitri,28,Wanty - Groupe Gobert,,,",,1:49",40.899,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+90,91,21,+2:28,124,FORMOLO Davide,23,Cannondale Pro Cycling Team,,,1:501:50,40.869,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+91,92,107,+22:54,135,PANTANO Jarlinson,27,IAM Cycling,,,",,1:50",40.869,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+92,93,29,+3:45,164,KUDUS Merhawi,22,Team Dimension Data,,,",,1:50",40.869,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+93,94,83,+17:54,194,MARCATO Marco,32,Wanty - Groupe Gobert,,,1:521:52,40.806999999999995,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+94,95,129,+28:00,84,BERNARD Julien,24,Trek - Segafredo,,,1:551:55,40.716,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+95,96,108,+22:56,72,BONNET William,33,FDJ,,,1:581:58,40.624,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+96,97,127,+27:55,155,SMUKULIS Gatis,29,Astana Pro Team,,,",,1:58",40.624,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+97,98,71,+13:31,138,ZAUGG Oliver,34,IAM Cycling,,,1:591:59,40.594,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+98,99,72,+13:33,141,BARDET Romain,25,AG2R La Mondiale,,,2:012:01,40.534,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+99,100,130,+28:07,45,SABATINI Fabio,31,Etixx - Quick Step,,,",,2:01",40.534,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+100,101,128,+28:00,37,VELITS Peter,31,BMC Racing Team,,,2:022:02,40.503,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+101,102,23,+3:15,116,MEINTJES Louis,24,Lampre - Merida,,,2:052:05,40.413000000000004,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+102,103,86,+18:18,2,BELKOV Maxim,31,Team Katusha,,,2:062:06,40.383,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+103,104,106,+22:52,148,RIBLON Christophe,35,AG2R La Mondiale,,,2:072:07,40.353,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+104,105,142,+31:01,181,KOHLER Martin,30,Team Roth,,,2:092:09,40.293,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+105,106,48,+7:50,195,MARTIN Guillaume,22,Wanty - Groupe Gobert,,,",,2:09",40.293,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+106,107,84,+18:17,114,COSTA Mário,30,Lampre - Merida,,,2:102:10,40.264,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+107,108,38,+5:36,143,CHEREL Mikaël,30,AG2R La Mondiale,,,2:152:15,40.115,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+108,109,87,+18:23,186,PASQUALON Andrea,28,Team Roth,,,2:162:16,40.085,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+109,110,109,+23:04,58,ROJAS José Joaquín,30,Movistar Team,,,2:182:18,40.025999999999996,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+110,111,111,+23:25,168,VENTER Jaco,29,Team Dimension Data,,,2:192:19,39.997,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+111,112,133,+28:23,198,VEUCHELEN Frederik,37,Wanty - Groupe Gobert,,,",,2:19",39.997,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+112,113,147,+32:51,166,REGUIGUI Youcef,26,Team Dimension Data,,,2:202:20,39.968,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+113,114,90,+18:42,107,VAN DER SANDE Tosh,25,Lotto Soudal,,,2:212:21,39.938,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+114,115,58,+9:44,123,DOMBROWSKI Joe,24,Cannondale Pro Cycling Team,,,2:242:24,39.851,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+115,116,125,+27:46,22,KWIATKOWSKI Michał,25,Team Sky,,,2:252:25,39.821,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+116,117,112,+23:38,144,DUMOULIN Samuel,35,AG2R La Mondiale,,,2:262:26,39.792,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+117,118,131,+28:11,136,REYNÉS Vicente,34,IAM Cycling,,,2:272:27,39.763000000000005,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+118,119,110,+23:12,44,MARTINELLI Davide,22,Etixx - Quick Step,,,2:292:29,39.705,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+119,120,132,+28:21,177,STAMSNIJDER Tom,30,Team Giant - Alpecin,,,",,2:29",39.705,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+120,121,89,+18:32,5,SILIN Egor,27,Team Katusha,,,2:312:31,39.647,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+121,122,92,+19:02,182,BAILLIFARD Valentin,22,Team Roth,,,2:332:33,39.59,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+122,123,134,+28:25,188,THALMANN Roland,22,Team Roth,,,",,2:33",39.59,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+123,124,143,+31:07,178,TIMMER Albert,30,Team Giant - Alpecin,,,2:352:35,39.532,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+124,125,116,+24:23,4,LAGUTIN Sergey,35,Team Katusha,,,2:362:36,39.503,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+125,126,60,+9:59,154,ROSA Diego,27,Astana Pro Team,,,2:372:37,39.475,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+126,127,135,+28:51,172,FRÖHLINGER Johannes,30,Team Giant - Alpecin,,,2:412:41,39.36,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+127,128,148,+32:51,24,PETERS Alex,22,Team Sky,,,2:422:42,39.332,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+128,129,33,+4:37,6,TAARAMÄE Rein,29,Team Katusha,,,2:462:46,39.218,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+129,130,144,+31:38,174,JI Cheng,28,Team Giant - Alpecin,,,2:522:52,39.05,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+130,131,114,+23:51,113,CIMOLAI Davide,26,Lampre - Merida,,,2:532:53,39.022,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+131,132,74,+14:24,197,MINNAARD Marco,27,Wanty - Groupe Gobert,,,2:552:55,38.966,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+132,133,138,+29:09,184,KRIZEK Matthias,27,Team Roth,,,3:003:00,38.827,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+133,134,137,+29:04,183,BRÜNGGER Nico,27,Team Roth,,,3:023:02,38.771,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+134,135,65,+12:23,53,ANACONA Winner,27,Movistar Team,,,3:053:05,38.688,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+135,136,57,+9:17,17,ROVNY Ivan,28,Tinkoff,,,3:063:06,38.661,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+136,137,140,+29:13,46,VELITS Martin,31,Etixx - Quick Step,,,",,3:06",38.661,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+137,138,113,+23:46,86,BONIFAZIO Niccolò,22,Trek - Segafredo,,,3:083:08,38.606,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+138,139,145,+31:54,97,VAN WINDEN Dennis,28,Team LottoNL-Jumbo,,,",,3:08",38.606,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+139,140,117,+24:47,112,BONO Matteo,32,Lampre - Merida,,,3:133:13,38.47,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+140,141,139,+29:10,185,PAGE Dylan,22,Team Roth,,,3:143:14,38.442,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+141,142,136,+29:03,27,SWIFT Ben,28,Team Sky,,,3:153:15,38.415,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+142,143,93,+19:58,167,SBARAGLI Kristian,25,Team Dimension Data,,,",,3:15",38.415,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+143,144,119,+26:12,83,BEPPU Fumiyuki,33,Trek - Segafredo,,,3:163:16,38.388000000000005,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+144,145,146,+32:28,57,PEDRERO Antonio,24,Movistar Team,,,3:293:29,38.039,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+145,146,73,+14:09,137,WYSS Marcel,29,IAM Cycling,,,3:313:31,37.986,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+146,147,149,+34:34,163,JIM Songezo,25,Team Dimension Data,,,3:433:43,37.67,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+147,148,40,+5:44,151,SÁNCHEZ Luis León,32,Astana Pro Team,,,3:443:44,37.644,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13
+148,149,126,+27:47,14,HERNÁNDEZ BLÁZQUEZ Jesús,34,Tinkoff,,,3:483:48,37.54,Tour_de_Romandie,3,29 April 2016,44.55 km/h,0,15.11 km,13

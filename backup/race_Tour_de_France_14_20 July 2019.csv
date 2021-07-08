@@ -1,0 +1,166 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,6.0,+3:12,51,PINOT Thibaut,29,Groupama - FDJ,120.0,100.0,3:10:20,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+1,2,1.0,+0:00,21,ALAPHILIPPE Julian,27,Deceuninck - Quick Step,50.0,70.0,0:060:06,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+2,3,3.0,+2:14,81,KRUIJSWIJK Steven,32,Team Jumbo-Visma,25.0,50.0,",,0:06",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+3,4,5.0,+3:12,12,BUCHMANN Emanuel,26,BORA - hansgrohe,15.0,40.0,0:080:08,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+4,5,4.0,+3:00,2,BERNAL Egan,22,Team INEOS,5.0,32.0,",,0:08",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+5,6,11.0,+6:14,65,LANDA Mikel,29,Movistar Team,,26.0,0:140:14,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+6,7,7.0,+4:24,91,URÁN Rigoberto,32,EF Education First,,22.0,0:300:30,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+7,8,2.0,+2:02,1,THOMAS Geraint,33,Team INEOS,,18.0,0:360:36,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+8,9,13.0,+7:17,211,BARGUIL Warren,27,Team Arkéa Samsic,,14.0,0:380:38,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+9,10,8.0,+5:22,71,FUGLSANG Jakob,34,Astana Pro Team,,10.0,0:530:53,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+10,11,23.0,+18:32,82,BENNETT George,29,Team Jumbo-Visma,,8.0,0:580:58,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+11,12,9.0,+5:27,62,VALVERDE Alejandro,39,Movistar Team,,6.0,",,0:58",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+12,13,32.0,+34:56,83,DE PLUS Laurens,23,Team Jumbo-Visma,,4.0,1:191:19,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+13,14,12.0,+6:49,131,PORTE Richie,34,Trek - Segafredo,,2.0,2:052:05,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+14,15,19.0,+11:00,53,GAUDU David,22,Groupama - FDJ,,1.0,2:262:26,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+15,16,10.0,+5:38,25,MAS Enric,24,Deceuninck - Quick Step,,,2:542:54,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+16,17,14.0,+7:19,61,QUINTANA Nairo,29,Movistar Team,,,3:243:24,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+17,18,15.0,+9:03,136,MOLLEMA Bauke,32,Trek - Segafredo,,,3:293:29,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+18,19,20.0,+11:19,122,ARU Fabio,29,UAE-Team Emirates,,,3:333:33,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+19,20,17.0,+9:55,206,KREUZIGER Roman,33,Team Dimension Data,,,3:483:48,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+20,21,55.0,+56:22,6,POELS Wout,31,Team INEOS,,,4:104:10,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+21,22,21.0,+13:23,191,MARTIN Guillaume,26,Wanty - Gobert Cycling Team,,,4:214:21,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+22,23,41.0,+46:26,94,KANGERT Tanel,32,EF Education First,,,4:484:48,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+23,24,16.0,+9:50,121,MARTIN Dan,32,UAE-Team Emirates,,,5:355:35,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+24,25,18.0,+10:37,101,YATES Adam,26,Mitchelton-Scott,,,6:426:42,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+25,26,33.0,+36:50,67,SOLER Marc,25,Movistar Team,,,7:127:12,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+26,27,48.0,+52:17,75,IZAGIRRE Gorka,31,Astana Pro Team,,,9:349:34,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+27,28,25.0,+25:54,56,MOLARD Rudy,29,Groupama - FDJ,,,9:599:59,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+28,29,69.0,+1:10:07,8,VAN BAARLE Dylan,27,Team INEOS,,,",,9:59",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+29,30,59.0,+1:02:00,3,CASTROVIEJO Jonathan,32,Team INEOS,,,10:5610:56,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+30,31,86.0,+1:29:15,214,GESBERT Élie,24,Team Arkéa Samsic,,,11:1511:15,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+31,32,84.0,+1:26:23,42,CARUSO Damiano,31,Bahrain Merida,,,",,11:15",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+32,33,28.0,+29:11,57,REICHENBACH Sébastien,30,Groupama - FDJ,,,11:2111:21,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+33,34,34.0,+37:03,154,HERRADA Jesús,28,"Cofidis, Solutions Crédits",,,11:2211:22,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+34,35,49.0,+52:28,72,BILBAO Pello,29,Astana Pro Team,,,11:3911:39,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+35,36,31.0,+34:46,103,HAIG Jack,25,Mitchelton-Scott,,,",,11:39",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+36,37,89.0,+1:30:33,23,DEVENYNS Dries,35,Deceuninck - Quick Step,,,12:0412:04,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+37,38,37.0,+42:56,38,VUILLERMOZ Alexis,31,AG2R La Mondiale,,,12:2012:20,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+38,39,38.0,+43:04,15,MÜHLBERGER Gregor,25,BORA - hansgrohe,,,12:3912:39,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+39,40,22.0,+17:13,14,KONRAD Patrick,27,BORA - hansgrohe,,,",,12:39",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+40,41,72.0,+1:14:59,156,PÉRICHON Pierre-Luc,32,"Cofidis, Solutions Crédits",,,12:5012:50,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+41,42,96.0,+1:38:14,171,CALMEJANE Lilian,26,Team Total Direct Energie,,,14:1014:10,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+42,43,88.0,+1:30:15,168,WELLENS Tim,28,Lotto Soudal,,,15:1915:19,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+43,44,76.0,+1:18:39,73,FRAILE Omar,29,Astana Pro Team,,,15:2915:29,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+44,45,70.0,+1:10:19,175,SICARD Romain,31,Team Total Direct Energie,,,15:3615:36,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+45,46,51.0,+54:59,162,BENOOT Tiesj,25,Lotto Soudal,,,16:1516:15,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+46,47,79.0,+1:19:52,108,YATES Simon,26,Mitchelton-Scott,,,16:3116:31,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+47,48,24.0,+23:39,76,LUTSENKO Alexey,26,Astana Pro Team,,,17:1117:11,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+48,49,57.0,+1:00:19,181,ZAKARIN Ilnur,29,Team Katusha Alpecin,,,",,17:11",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+49,50,36.0,+42:35,125,HENAO Sergio,31,UAE-Team Emirates,,,",,17:11",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+50,51,66.0,+1:07:13,78,SÁNCHEZ Luis León,35,Astana Pro Team,,,",,17:11",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+51,52,91.0,+1:36:04,74,HOULE Hugo,28,Astana Pro Team,,,",,17:11",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+52,53,97.0,+1:38:40,217,MOINARD Amaël,37,Team Arkéa Samsic,,,18:2518:25,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+53,54,82.0,+1:21:55,35,GALLOPIN Tony,31,AG2R La Mondiale,,,20:1920:19,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+54,55,45.0,+49:14,32,CHEREL Mikaël,33,AG2R La Mondiale,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+55,56,27.0,+26:29,195,MEURISSE Xandro,27,Wanty - Gobert Cycling Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+56,57,43.0,+48:26,34,FRANK Mathias,32,AG2R La Mondiale,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+57,58,60.0,+1:02:16,37,NAESEN Oliver,28,AG2R La Mondiale,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+58,59,35.0,+40:10,133,CICCONE Giulio,24,Trek - Segafredo,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+59,60,111.0,+1:47:16,194,EIKING Odd Christian,24,Wanty - Gobert Cycling Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+60,61,119.0,+1:57:48,33,COSNEFROY Benoît,23,AG2R La Mondiale,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+61,62,92.0,+1:36:35,205,KING Ben,30,Team Dimension Data,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+62,63,118.0,+1:56:06,123,BYSTRØM Sven Erik,27,UAE-Team Emirates,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+63,64,139.0,+2:13:12,192,BACKAERT Frederik,29,Wanty - Gobert Cycling Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+64,65,115.0,+1:50:44,174,OURSELIN Paul,25,Team Total Direct Energie,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+65,66,26.0,+26:05,31,BARDET Romain,28,AG2R La Mondiale,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+66,67,129.0,+2:06:37,134,DE KORT Koen,36,Trek - Segafredo,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+67,68,47.0,+50:40,132,BERNARD Julien,27,Trek - Segafredo,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+68,69,114.0,+1:49:56,163,DE BUYST Jasper,25,Lotto Soudal,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+69,70,68.0,+1:09:03,208,VALGREN Michael,27,Team Dimension Data,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+70,71,71.0,+1:11:48,164,DE GENDT Thomas,32,Lotto Soudal,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+71,72,116.0,+1:53:58,157,ROSSETTO Stéphane,32,"Cofidis, Solutions Crédits",,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+72,73,108.0,+1:46:00,152,BERHANE Natnael,28,"Cofidis, Solutions Crédits",,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+73,74,46.0,+49:31,41,NIBALI Vincenzo,34,Bahrain Merida,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+74,75,40.0,+45:42,138,STUYVEN Jasper,27,Trek - Segafredo,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+75,76,127.0,+2:06:31,68,VERONA Carlos,26,Movistar Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+76,77,85.0,+1:28:34,116,ROSSKOPF Joey,29,CCC Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+77,78,106.0,+1:43:51,165,KEUKELEIRE Jens,30,Lotto Soudal,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+78,79,102.0,+1:40:58,117,SCHÄR Michael,32,CCC Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+79,80,42.0,+47:26,176,TAARAMÄE Rein,32,Team Total Direct Energie,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+80,81,50.0,+53:10,146,KELDERMAN Wilco,28,Team Sunweb,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+81,82,87.0,+1:29:36,115,PAUWELS Serge,35,CCC Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+82,83,95.0,+1:37:54,87,TEUNISSEN Mike,26,Team Jumbo-Visma,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+83,84,29.0,+30:02,111,VAN AVERMAET Greg,34,CCC Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+84,85,54.0,+56:08,98,WOODS Michael,32,EF Education First,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+85,86,30.0,+34:44,148,ROCHE Nicolas,35,Team Sunweb,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+86,87,93.0,+1:37:36,66,OLIVEIRA Nelson,30,Movistar Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+87,88,98.0,+1:38:48,64,ERVITI Imanol,35,Movistar Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+88,89,58.0,+1:01:13,63,AMADOR Andrey,32,Movistar Team,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+89,90,53.0,+55:23,124,COSTA Rui,32,UAE-Team Emirates,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+90,91,94.0,+1:37:43,58,ROUX Anthony,32,Groupama - FDJ,,,",,20:19",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+91,92,146.0,+2:18:13,144,HAGA Chad,30,Team Sunweb,,,20:3320:33,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+92,93,63.0,+1:05:28,92,BETTIOL Alberto,25,EF Education First,,,",,20:33",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+93,94,123.0,+2:03:36,77,CORT Magnus,26,Astana Pro Team,,,20:3620:36,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+94,95,67.0,+1:08:21,201,BOASSON HAGEN Edvald,32,Team Dimension Data,,,20:3920:39,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+95,96,121.0,+2:02:35,127,LAENGEN Vegard Stake,30,UAE-Team Emirates,,,",,20:39",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+96,97,44.0,+48:55,141,MATTHEWS Michael,28,Team Sunweb,,,20:5320:53,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+97,98,125.0,+2:05:47,161,EWAN Caleb,25,Lotto Soudal,,,21:0421:04,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+98,99,143.0,+2:16:23,167,MONFORT Maxime,36,Lotto Soudal,,,",,21:04",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+99,100,120.0,+1:58:58,155,PEREZ Anthony,28,"Cofidis, Solutions Crédits",,,",,21:04",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+100,101,52.0,+55:19,47,TEUNS Dylan,27,Bahrain Merida,,,21:1321:13,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+101,102,109.0,+1:46:11,54,KÜNG Stefan,25,Groupama - FDJ,,,21:1521:15,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+102,103,131.0,+2:07:05,178,TURGIS Anthony,25,Team Total Direct Energie,,,21:3421:34,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+103,104,90.0,+1:32:31,197,PASQUALON Andrea,31,Wanty - Gobert Cycling Team,,,21:3921:39,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+104,105,141.0,+2:14:07,198,VAN MELSEN Kévin,32,Wanty - Gobert Cycling Team,,,21:5121:51,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+105,106,104.0,+1:41:56,216,LEDANOIS Kévin,26,Team Arkéa Samsic,,,21:5521:55,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+106,107,148.0,+2:18:24,96,SCULLY Tom,29,EF Education First,,,22:1522:15,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+107,108,77.0,+1:19:14,145,KÄMNA Lennard,22,Team Sunweb,,,",,22:15",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+108,109,78.0,+1:19:35,186,POLITT Nils,25,Team Katusha Alpecin,,,",,22:15",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+109,110,83.0,+1:22:18,114,GESCHKE Simon,33,CCC Team,,,",,22:15",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+110,111,103.0,+1:41:41,213,DELAPLACE Anthony,29,Team Arkéa Samsic,,,22:2122:21,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+111,112,65.0,+1:07:07,105,IMPEY Daryl,34,Mitchelton-Scott,,,22:2822:28,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+112,113,161.0,+2:26:34,86,MARTIN Tony,34,Team Jumbo-Visma,,,22:5922:59,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+113,114,124.0,+2:05:07,24,LAMPAERT Yves,28,Deceuninck - Quick Step,,,23:1123:11,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+114,115,100.0,+1:39:43,187,WÜRTZ SCHMIDT Mads,25,Team Katusha Alpecin,,,23:2123:21,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+115,116,136.0,+2:10:19,55,LADAGNOUS Matthieu,34,Groupama - FDJ,,,23:2723:27,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+116,117,113.0,+1:48:52,102,DURBRIDGE Luke,28,Mitchelton-Scott,,,23:3523:35,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+117,118,105.0,+1:43:20,45,GARCÍA CORTINA Iván,23,Bahrain Merida,,,23:5223:52,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+118,119,39.0,+43:22,107,TRENTIN Matteo,29,Mitchelton-Scott,,,24:0224:02,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+119,120,75.0,+1:17:43,5,MOSCON Gianni,25,Team INEOS,,,",,24:02",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+120,121,147.0,+2:18:19,166,KLUGE Roger,33,Lotto Soudal,,,24:0724:07,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+121,122,112.0,+1:48:23,16,OSS Daniel,32,BORA - hansgrohe,,,24:1524:15,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+122,123,56.0,+58:20,135,FELLINE Fabio,29,Trek - Segafredo,,,24:1824:18,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+123,124,101.0,+1:40:29,137,SKUJIŅŠ Toms,28,Trek - Segafredo,,,",,24:18",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+124,125,151.0,+2:19:51,22,ASGREEN Kasper,24,Deceuninck - Quick Step,,,",,24:18",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+125,126,130.0,+2:06:51,184,GONÇALVES José,30,Team Katusha Alpecin,,,",,24:18",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+126,127,135.0,+2:08:59,106,JUUL-JENSEN Christopher,30,Mitchelton-Scott,,,",,24:18",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+127,128,80.0,+1:19:57,48,TRATNIK Jan,29,Bahrain Merida,,,24:2424:24,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+128,129,73.0,+1:16:50,147,KRAGH ANDERSEN Søren,24,Team Sunweb,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+129,130,137.0,+2:10:48,36,GOUGEARD Alexis,26,AG2R La Mondiale,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+130,131,149.0,+2:18:35,26,MØRKØV Michael,34,Deceuninck - Quick Step,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+131,132,74.0,+1:17:27,43,COLBRELLI Sonny,29,Bahrain Merida,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+132,133,107.0,+1:45:49,46,MOHORIČ Matej,24,Bahrain Merida,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+133,134,134.0,+2:08:43,17,PÖSTLBERGER Lukas,27,BORA - hansgrohe,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+134,135,122.0,+2:02:48,173,GRELLIER Fabien,24,Team Total Direct Energie,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+135,136,110.0,+1:46:22,142,ARNDT Nikias,27,Team Sunweb,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+136,137,132.0,+2:08:06,218,VACHON Florian,34,Team Arkéa Samsic,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+137,138,99.0,+1:39:37,158,SIMON Julien,33,"Cofidis, Solutions Crédits",,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+138,139,154.0,+2:20:15,215,GREIPEL André,37,Team Arkéa Samsic,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+139,140,159.0,+2:22:09,193,DE GENDT Aimé,25,Wanty - Gobert Cycling Team,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+140,141,144.0,+2:16:30,203,CUMMINGS Steve,38,Team Dimension Data,,,",,24:24",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+141,142,61.0,+1:02:57,93,CLARKE Simon,33,EF Education First,,,24:3924:39,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+142,143,81.0,+1:20:12,212,BOUET Maxime,32,Team Arkéa Samsic,,,25:4225:42,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+143,144,62.0,+1:03:48,4,KWIATKOWSKI Michał,29,Team INEOS,,,25:4725:47,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+144,145,117.0,+1:55:58,7,ROWE Luke,29,Team INEOS,,,",,25:47",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+145,146,64.0,+1:05:51,11,SAGAN Peter,29,BORA - hansgrohe,,,25:5325:53,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+146,147,160.0,+2:22:14,185,HALLER Marco,28,Team Katusha Alpecin,,,26:2126:21,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+147,148,164.0,+2:46:15,196,OFFREDO Yoann,32,Wanty - Gobert Cycling Team,,,26:3026:30,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+148,149,142.0,+2:14:35,52,BONNET William,37,Groupama - FDJ,,,26:3526:35,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+149,150,128.0,+2:06:34,118,WIŚNIOWSKI Łukasz,27,CCC Team,,,",,26:35",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+150,151,153.0,+2:20:00,104,HEPBURN Michael,27,Mitchelton-Scott,,,27:0927:09,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+151,152,163.0,+2:35:21,95,LANGEVELD Sebastian,34,EF Education First,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+152,153,156.0,+2:21:22,85,JANSEN Amund Grøndahl,25,Team Jumbo-Visma,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+153,154,157.0,+2:21:31,202,BAK Lars Ytting,39,Team Dimension Data,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+154,155,126.0,+2:06:15,204,JANSE VAN RENSBURG Reinardt,30,Team Dimension Data,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+155,156,158.0,+2:21:44,84,GROENEWEGEN Dylan,26,Team Jumbo-Visma,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+156,157,133.0,+2:08:17,28,VIVIANI Elia,30,Deceuninck - Quick Step,,,",,27:09",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+157,158,150.0,+2:19:41,183,DOWSETT Alex,30,Team Katusha Alpecin,,,27:2627:26,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+158,159,152.0,+2:19:51,27,RICHEZE Maximiliano,36,Deceuninck - Quick Step,,,27:3027:30,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+159,160,145.0,+2:17:44,143,BOL Cees,23,Team Sunweb,,,",,27:30",Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+160,161,155.0,+2:20:49,172,BONIFAZIO Niccolò,25,Team Total Direct Energie,,,27:4627:46,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+161,162,138.0,+2:12:59,126,KRISTOFF Alexander,32,UAE-Team Emirates,,,27:5627:56,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+162,163,162.0,+2:33:00,182,DEBUSSCHERE Jens,29,Team Katusha Alpecin,,,29:1129:11,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+163,164,140.0,+2:13:19,13,BURGHARDT Marcus,36,BORA - hansgrohe,,,29:5729:57,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1
+164,DNS,,,18,SCHACHMANN Maximilian,25,BORA - hansgrohe,,,-,Tour_de_France,14,20 July 2019,34.991 km/h,350,111 km,1

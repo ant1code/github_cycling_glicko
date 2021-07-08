@@ -1,0 +1,167 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,1.0,+0:00,41,NIBALI Vincenzo,29,Astana Pro Team,20.0,100.0,4:04:17,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+1,2,2.0,+7:10,127,PINOT Thibaut,24,FDJ.fr,10.0,70.0,1:101:10,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+2,3,45.0,+2:07:50,34,MAJKA Rafał,24,Tinkoff - Saxo,6.0,50.0,1:121:12,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+3,4,3.0,+7:23,81,PERAUD Jean-Christophe,37,AG2R La Mondiale,4.0,40.0,1:151:15,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+4,5,6.0,+11:34,141,VAN GARDEREN Tejay,25,BMC Racing Team,2.0,32.0,",,1:15",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+5,6,5.0,+9:27,82,BARDET Romain,23,AG2R La Mondiale,,26.0,1:531:53,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+6,7,7.0,+13:56,61,MOLLEMA Bauke,27,Belkin-Pro Cycling Team,,22.0,1:571:57,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+7,8,9.0,+14:37,201,KÖNIG Leopold,26,Team NetApp – Endura,,18.0,",,1:57",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+8,9,10.0,+16:25,169,ZUBELDIA Haimar,37,Trek Factory Racing,,14.0,1:591:59,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+9,10,4.0,+7:25,11,VALVERDE Alejandro,34,Movistar Team,,10.0,",,1:59",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+10,11,8.0,+14:15,67,TEN DAM Laurens,33,Belkin-Pro Cycling Team,,8.0,",,1:59",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+11,12,12.0,+21:33,161,SCHLECK Fränk,34,Trek Factory Racing,,6.0,3:303:30,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+12,13,15.0,+34:30,64,KRUIJSWIJK Steven,27,Belkin-Pro Cycling Team,,4.0,",,3:30",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+13,14,21.0,+50:34,46,KANGERT Tanel,27,Astana Pro Team,,2.0,",,3:30",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+14,15,30.0,+1:26:53,124,JEANNESSON Arnold,28,FDJ.fr,,1.0,4:244:24,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+15,16,22.0,+52:40,85,GASTAUER Ben,26,AG2R La Mondiale,,,4:284:28,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+16,17,14.0,+32:30,29,TROFIMOV Yuri,30,Team Katusha,,,4:304:30,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+17,18,11.0,+17:48,151,ROLLAND Pierre,27,Team Europcar,,,4:334:33,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+18,19,17.0,+39:28,114,HORNER Chris,42,Lampre - Merida,,,4:404:40,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+19,20,19.0,+41:41,13,GADRET John,35,Movistar Team,,,",,4:40",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+20,21,33.0,+1:41:10,147,STETINA Peter,26,BMC Racing Team,,,4:594:59,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+21,22,52.0,+2:27:47,176,MOLARD Rudy,24,"Cofidis, Solutions Crédits",,,5:205:20,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+22,23,16.0,+37:37,211,FEILLU Brice,28,Bretagne - Séché Environnement,,,5:235:23,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+23,24,18.0,+41:34,5,NIEVE Mikel,30,Team Sky,,,5:255:25,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+24,25,24.0,+57:15,154,GAUTIER Cyril,26,Team Europcar,,,6:406:40,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+25,26,31.0,+1:30:53,199,WYSS Marcel,28,IAM Cycling,,,7:227:22,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+26,27,32.0,+1:31:50,175,MATÉ Luis Ángel,30,"Cofidis, Solutions Crédits",,,8:158:15,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+27,28,86.0,+3:16:23,157,QUÉMÉNEUR Perrig,30,Team Europcar,,,8:358:35,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+28,29,39.0,+1:52:52,37,ROCHE Nicolas,30,Tinkoff - Saxo,,,8:558:55,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+29,30,34.0,+1:44:47,192,CHAVANEL Sylvain,35,IAM Cycling,,,10:1010:10,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+30,31,66.0,+2:50:59,205,HUZARSKI Bartosz,33,Team NetApp – Endura,,,10:4310:43,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+31,32,25.0,+1:01:06,72,BAKELANTS Jan,28,Omega Pharma - Quick-Step,,,11:1211:12,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+32,33,42.0,+1:54:08,159,VOECKLER Thomas,35,Team Europcar,,,11:5411:54,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+33,34,61.0,+2:46:05,152,ARASHIRO Yukiya,29,Team Europcar,,,",,11:54",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+34,35,78.0,+3:06:35,86,KADRI Blel,27,AG2R La Mondiale,,,13:2113:21,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+35,36,13.0,+29:58,131,VAN DEN BROECK Jurgen,31,Lotto Belisol,,,13:5013:50,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+36,37,43.0,+2:04:23,146,SCHÄR Michael,27,BMC Racing Team,,,14:1414:14,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+37,38,27.0,+1:12:36,38,ROGERS Michael,34,Tinkoff - Saxo,,,",,14:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+38,39,41.0,+1:53:40,19,VISCONTI Giovanni,31,Movistar Team,,,",,14:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+39,40,83.0,+3:14:20,12,ERVITI Imanol,30,Movistar Team,,,",,14:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+40,41,77.0,+3:06:21,125,LADAGNOUS Matthieu,29,FDJ.fr,,,",,14:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+41,42,37.0,+1:52:35,148,VAN AVERMAET Greg,29,BMC Racing Team,,,16:1216:12,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+42,43,108.0,+3:40:08,178,SIMON Julien,28,"Cofidis, Solutions Crédits",,,",,16:12",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+43,44,49.0,+2:21:58,53,DE MARCHI Alessandro,28,Cannondale,,,16:1616:16,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+44,45,123.0,+3:59:12,89,RIBLON Christophe,33,AG2R La Mondiale,,,17:3517:35,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+45,46,57.0,+2:41:14,128,ROY Jérémy,31,FDJ.fr,,,19:0119:01,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+46,47,54.0,+2:35:03,95,KING Ben,25,Garmin Sharp,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+47,48,104.0,+3:36:12,27,SMUKULIS Gatis,27,Team Katusha,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+48,49,56.0,+2:38:45,98,SLAGTER Tom-Jelte,25,Garmin Sharp,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+49,50,74.0,+3:02:44,99,VANSUMMEREN Johan,33,Garmin Sharp,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+50,51,92.0,+3:28:24,162,BUSCHE Matthew,29,Trek Factory Racing,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+51,52,20.0,+50:01,7,PORTE Richie,29,Team Sky,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+52,53,68.0,+2:53:12,164,IRIZAR Markel,34,Trek Factory Racing,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+53,54,46.0,+2:15:10,113,ĐURASEK Kristijan,26,Lampre - Merida,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+54,55,96.0,+3:31:36,4,LÓPEZ David,33,Team Sky,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+55,56,38.0,+1:52:47,66,TANKINK Bram,35,Belkin-Pro Cycling Team,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+56,57,23.0,+56:26,8,THOMAS Geraint,28,Team Sky,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+57,58,62.0,+2:48:00,136,HANSEN Adam,33,Lotto Belisol,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+58,59,58.0,+2:41:55,217,GUILLOU Florian,31,Bretagne - Séché Environnement,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+59,60,117.0,+3:47:54,212,BIDEAU Jean Marc,30,Bretagne - Séché Environnement,,,",,19:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+60,61,81.0,+3:13:28,198,REICHENBACH Sébastien,25,IAM Cycling,,,19:2519:25,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+61,62,95.0,+3:30:29,62,BOOM Lars,28,Belkin-Pro Cycling Team,,,19:5919:59,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+62,63,89.0,+3:26:17,179,TAARAMÄE Rein,27,"Cofidis, Solutions Crédits",,,20:1420:14,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+63,64,53.0,+2:30:57,21,RODRÍGUEZ Joaquim,35,Team Katusha,,,20:3820:38,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+64,65,106.0,+3:36:27,126,PINEAU Cédric,29,FDJ.fr,,,",,20:38",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+65,66,50.0,+2:22:45,209,VOSS Paul,28,Team NetApp – Endura,,,21:0421:04,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+66,67,69.0,+2:57:07,158,REZA Kévin,26,Team Europcar,,,21:0821:08,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+67,68,29.0,+1:24:55,134,GALLOPIN Tony,26,Lotto Belisol,,,",,21:08",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+68,69,122.0,+3:58:45,207,MENDES José,29,Team NetApp – Endura,,,21:4521:45,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+69,70,70.0,+2:57:57,206,MACHADO Tiago,28,Team NetApp – Endura,,,",,21:45",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+70,71,87.0,+3:21:29,116,OLIVEIRA Nelson,25,Lampre - Merida,,,",,21:45",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+71,72,99.0,+3:34:18,43,GRIVKO Andrey,30,Astana Pro Team,,,22:0422:04,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+72,73,36.0,+1:47:55,42,FUGLSANG Jakob,29,Astana Pro Team,,,",,22:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+73,74,48.0,+2:21:10,47,SCARPONI Michele,34,Astana Pro Team,,,",,22:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+74,75,65.0,+2:50:17,88,MONTAGUTI Matteo,30,AG2R La Mondiale,,,22:2822:28,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+75,76,40.0,+1:52:57,16,IZAGIRRE Ion,25,Movistar Team,,,23:0223:02,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+76,77,119.0,+3:54:25,39,TOSATTO Matteo,40,Tinkoff - Saxo,,,",,23:02",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+77,78,94.0,+3:30:04,87,MINARD Sébastien,32,AG2R La Mondiale,,,",,23:02",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+78,79,142.0,+4:30:04,208,SCHILLINGER Andreas,31,Team NetApp – Endura,,,",,23:02",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+79,80,64.0,+2:49:10,14,HERRADA Jesús,23,Movistar Team,,,",,23:02",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+80,81,71.0,+2:58:05,145,OSS Daniel,27,BMC Racing Team,,,",,23:02",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+81,82,80.0,+3:13:27,49,WESTRA Lieuwe,31,Astana Pro Team,,,23:4223:42,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+82,83,60.0,+2:45:38,197,PINEAU Jérôme,34,IAM Cycling,,,24:3924:39,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+83,84,44.0,+2:07:48,144,MOINARD Amaël,32,BMC Racing Team,,,",,24:39",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+84,85,28.0,+1:18:27,149,VELITS Peter,29,BMC Racing Team,,,",,24:39",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+85,86,59.0,+2:43:32,73,GOŁAŚ Michał,30,Omega Pharma - Quick-Step,,,",,24:39",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+86,87,85.0,+3:15:56,56,MARCATO Marco,30,Cannondale,,,26:2926:29,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+87,88,63.0,+2:48:43,51,SAGAN Peter,24,Cannondale,,,",,26:29",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+88,89,97.0,+3:31:42,78,TERPSTRA Niki,30,Omega Pharma - Quick-Step,,,27:2627:26,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+89,90,130.0,+4:10:14,216,GÉRARD Arnaud,29,Bretagne - Séché Environnement,,,28:1428:14,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+90,91,91.0,+3:27:27,36,PAULINHO Sérgio Miguel,34,Tinkoff - Saxo,,,28:4128:41,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+91,92,102.0,+3:35:45,165,RAST Grégory,34,Trek Factory Racing,,,",,28:41",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+92,93,100.0,+3:35:20,32,BENNATI Daniele,33,Tinkoff - Saxo,,,",,28:41",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+93,94,146.0,+4:31:45,108,TIMMER Albert,29,Team Giant - Shimano,,,29:1929:19,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+94,95,109.0,+3:40:34,153,COQUARD Bryan,22,Team Europcar,,,30:5730:57,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+95,96,153.0,+4:38:17,135,GREIPEL André,32,Lotto Belisol,,,31:0131:01,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+96,97,51.0,+2:24:15,75,MARTIN Tony,29,Omega Pharma - Quick-Step,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+97,98,116.0,+3:47:24,183,CLARKE Simon,28,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+98,99,75.0,+3:05:14,193,ELMIGER Martin,35,IAM Cycling,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+99,100,121.0,+3:57:20,187,MEIER Christian,29,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+100,101,72.0,+3:01:44,182,ALBASINI Michael,33,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+101,102,111.0,+3:44:38,102,CURVERS Roy,34,Team Giant - Shimano,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+102,103,126.0,+4:03:16,94,HOWES Alex,26,Garmin Sharp,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+103,104,133.0,+4:14:30,44,GRUZDEV Dmitriy,28,Astana Pro Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+104,105,134.0,+4:15:08,55,KOREN Kristijan,27,Cannondale,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+105,106,137.0,+4:19:46,215,FONSECA Armindo,25,Bretagne - Séché Environnement,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+106,107,84.0,+3:14:36,213,DELAPLACE Anthony,24,Bretagne - Séché Environnement,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+107,108,129.0,+4:08:27,45,IGLINSKIY Maxim,33,Astana Pro Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+108,109,159.0,+4:48:41,122,BONNET William,32,FDJ.fr,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+109,110,35.0,+1:47:29,106,DUMOULIN Tom,23,Team Giant - Shimano,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+110,111,162.0,+4:55:07,59,VIVIANI Elia,25,Cannondale,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+111,112,79.0,+3:10:10,132,BAK Lars Ytting,34,Lotto Belisol,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+112,113,113.0,+3:46:24,69,WYNANTS Maarten,32,Belkin-Pro Cycling Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+113,114,67.0,+2:51:03,186,KEUKELEIRE Jens,25,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+114,115,112.0,+3:45:14,58,SABATINI Fabio,29,Cannondale,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+115,116,47.0,+2:19:25,118,SERPA José Rodolfo,35,Lampre - Merida,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+116,117,105.0,+3:36:15,168,VOIGT Jens,42,Trek Factory Racing,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+117,118,73.0,+3:01:47,202,BÁRTA Jan,29,Team NetApp – Endura,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+118,119,55.0,+2:38:36,83,CHEREL Mikaël,28,AG2R La Mondiale,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+119,120,132.0,+4:12:41,188,TUFT Svein,37,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+120,121,154.0,+4:40:02,6,PATE Danny,35,Team Sky,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+121,122,110.0,+3:42:38,174,LEMOINE Cyril,31,"Cofidis, Solutions Crédits",,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+122,123,152.0,+4:38:14,76,PETACCHI Alessandro,40,Omega Pharma - Quick-Step,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+123,124,131.0,+4:10:15,65,LEEZER Tom,28,Belkin-Pro Cycling Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+124,125,136.0,+4:19:32,35,MØRKØV Michael,29,Tinkoff - Saxo,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+125,126,93.0,+3:29:41,84,DUMOULIN Samuel,33,AG2R La Mondiale,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+126,127,120.0,+3:55:23,184,DURBRIDGE Luke,23,Orica GreenEDGE,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+127,128,107.0,+3:39:02,68,VANMARCKE Sep,25,Belkin-Pro Cycling Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+128,129,115.0,+3:47:23,138,ROELANDTS Jürgen,29,Lotto Belisol,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+129,130,149.0,+4:34:01,204,DEMPSTER Zak,26,Team NetApp – Endura,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+130,131,150.0,+4:34:55,218,JARRIER Benoît,25,Bretagne - Séché Environnement,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+131,132,76.0,+3:06:12,172,EDET Nicolas,26,"Cofidis, Solutions Crédits",,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+132,133,144.0,+4:31:29,97,NAVARDAUSKAS Ramūnas,26,Garmin Sharp,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+133,134,90.0,+3:26:44,17,PLAZA Rubén,34,Movistar Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+134,135,101.0,+3:35:31,219,VACHON Florian,29,Bretagne - Séché Environnement,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+135,136,118.0,+3:52:02,15,INTXAUSTI Beñat,28,Movistar Team,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+136,137,82.0,+3:14:02,3,KIRYIENKA Vasil,33,Team Sky,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+137,138,147.0,+4:32:05,123,DELAGE Mickaël,28,FDJ.fr,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+138,139,127.0,+4:06:06,155,GÈNE Yohann,33,Team Europcar,,,",,31:01",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+139,140,139.0,+4:22:05,96,LANGEVELD Sebastian,29,Garmin Sharp,,,31:0931:09,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+140,141,140.0,+4:24:24,93,BAUER Jack,29,Garmin Sharp,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+141,142,124.0,+3:59:56,2,EISEL Bernhard,33,Team Sky,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+142,143,143.0,+4:30:11,48,VANOTTI Alessandro,33,Astana Pro Team,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+143,144,157.0,+4:47:35,177,PETIT Adrien,23,"Cofidis, Solutions Crédits",,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+144,145,151.0,+4:37:01,214,FEILLU Romain,30,Bretagne - Séché Environnement,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+145,146,148.0,+4:33:57,143,BURGHARDT Marcus,31,BMC Racing Team,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+146,147,141.0,+4:28:04,139,SIEBERG Marcel,32,Lotto Belisol,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+147,148,103.0,+3:36:10,156,PICHOT Alexandre,31,Team Europcar,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+148,149,135.0,+4:18:33,24,PAOLINI Luca,37,Team Katusha,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+149,150,160.0,+4:49:25,57,MARINO Jean-Marc,30,Cannondale,,,",,31:09",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+150,151,145.0,+4:31:35,77,RENSHAW Mark,31,Omega Pharma - Quick-Step,,,31:2831:28,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+151,152,98.0,+3:33:59,79,TRENTIN Matteo,24,Omega Pharma - Quick-Step,,,32:0332:03,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+152,153,125.0,+4:01:00,104,DEGENKOLB John,25,Team Giant - Shimano,,,",,32:03",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+153,154,88.0,+3:25:57,103,DE KORT Koen,31,Team Giant - Shimano,,,32:0432:04,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+154,155,155.0,+4:41:07,109,VEELERS Tom,29,Team Giant - Shimano,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+155,156,161.0,+4:53:25,101,KITTEL Marcel,26,Team Giant - Shimano,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+156,157,158.0,+4:48:11,121,DÉMARE Arnaud,22,FDJ.fr,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+157,158,128.0,+4:06:45,23,KRISTOFF Alexander,27,Team Katusha,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+158,159,156.0,+4:46:29,22,ISAYCHEV Vladimir,28,Team Katusha,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+159,160,138.0,+4:20:45,196,KLUGE Roger,28,IAM Cycling,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+160,161,164.0,+5:30:36,107,JI Cheng,27,Team Giant - Shimano,,,",,32:04",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+161,162,26.0,+1:08:55,74,KWIATKOWSKI Michał,24,Omega Pharma - Quick-Step,,,32:1432:14,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+162,163,114.0,+3:47:06,52,BODNAR Maciej,29,Cannondale,,,",,32:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+163,164,163.0,+5:05:24,112,CIMOLAI Davide,24,Lampre - Merida,,,",,32:14",Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+164,1000,,,18,ROJAS José Joaquín,29,Movistar Team,,,-5:0-5:0-17-5:0-5:0-17,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2
+165,DNF,,,194,HAUSSLER Heinrich,30,IAM Cycling,,,-,Tour_de_France,18,24 July 2014,35.74 km/h,0,145.5 km,2

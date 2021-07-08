@@ -1,0 +1,141 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,1.0,+0:00,42,BERNAL Egan,22,Team INEOS,60.0,50.0,5:37:40,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+1,2,4.0,+1:17,106,POZZOVIVO Domenico,36,Bahrain Merida,25.0,30.0,0:230:23,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+2,3,2.0,+0:41,101,DENNIS Rohan,29,Bahrain Merida,10.0,18.0,",,0:23",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+3,4,3.0,+1:13,14,KONRAD Patrick,27,BORA - hansgrohe,,13.0,0:340:34,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+4,5,5.0,+1:19,32,HIRT Jan,28,Astana Pro Team,,10.0,",,0:34",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+5,6,6.0,+1:19,141,BENOOT Tiesj,25,Lotto Soudal,,7.0,",,0:34",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+6,7,7.0,+2:07,1,MAS Enric,24,Deceuninck - Quick Step,,4.0,0:400:40,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+7,8,10.0,+2:26,161,ŠPILAK Simon,32,Team Katusha Alpecin,,3.0,0:500:50,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+8,9,15.0,+3:33,83,KÄMNA Lennard,22,Team Sunweb,,2.0,1:031:03,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+9,10,8.0,+2:20,53,ARU Fabio,28,UAE-Team Emirates,,1.0,",,1:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+10,11,13.0,+2:57,65,BETANCUR Carlos,29,Movistar Team,,,",,1:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+11,12,11.0,+2:35,54,HENAO Sergio,31,UAE-Team Emirates,,,",,1:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+12,13,9.0,+2:23,87,ROCHE Nicolas,34,Team Sunweb,,,1:061:06,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+13,14,16.0,+3:51,93,FRANKINY Kilian,25,Groupama - FDJ,,,1:191:19,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+14,15,12.0,+2:42,207,SCHELLING Patrick,29,Switzerland,,,1:201:20,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+15,16,21.0,+4:23,35,KUDUS Merhawi,25,Astana Pro Team,,,1:491:49,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+16,17,19.0,+4:21,124,PARET-PEINTRE Aurélien,23,AG2R La Mondiale,,,2:152:15,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+17,18,20.0,+4:23,187,SICARD Romain,31,Team Total Direct Energie,,,2:182:18,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+18,19,14.0,+3:26,122,BIDARD François,27,AG2R La Mondiale,,,",,2:18",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+19,20,18.0,+4:17,115,FELLINE Fabio,29,Trek - Segafredo,,,2:432:43,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+20,21,22.0,+5:31,112,CONCI Nicola,22,Trek - Segafredo,,,3:163:16,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+21,22,17.0,+4:14,61,SOLER Marc,25,Movistar Team,,,3:233:23,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+22,23,33.0,+12:14,144,MONFORT Maxime,36,Lotto Soudal,,,3:323:32,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+23,24,24.0,+6:19,171,KREUZIGER Roman,33,Team Dimension Data,,,3:593:59,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+24,25,23.0,+5:52,47,CASTROVIEJO Jonathan,32,Team INEOS,,,",,3:59",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+25,26,31.0,+10:56,46,SWIFT Ben,31,Team INEOS,,,4:224:22,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+26,27,43.0,+19:21,201,BADILATTI Matteo,26,Switzerland,,,4:384:38,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+27,28,53.0,+21:45,174,KING Ben,30,Team Dimension Data,,,4:474:47,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+28,29,26.0,+7:42,163,FABBRO Matteo,24,Team Katusha Alpecin,,,5:155:15,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+29,30,37.0,+15:57,153,GESCHKE Simon,33,CCC Team,,,5:245:24,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+30,31,28.0,+9:04,121,FRANK Mathias,32,AG2R La Mondiale,,,",,5:24",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+31,32,25.0,+7:28,64,MAS Lluís,29,Movistar Team,,,5:365:36,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+32,33,51.0,+21:34,117,STUYVEN Jasper,27,Trek - Segafredo,,,5:455:45,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+33,34,59.0,+23:47,123,BOUCHARD Geoffrey,27,AG2R La Mondiale,,,5:505:50,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+34,35,41.0,+18:53,206,PELLAUD Simon,26,Switzerland,,,5:585:58,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+35,36,69.0,+31:13,172,VALGREN Michael,27,Team Dimension Data,,,6:246:24,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+36,37,27.0,+8:46,96,MORABITO Steve,36,Groupama - FDJ,,,6:296:29,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+37,38,29.0,+9:56,34,SÁNCHEZ Luis León,35,Astana Pro Team,,,6:536:53,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+38,39,34.0,+12:49,43,ELISSONDE Kenny,27,Team INEOS,,,6:566:56,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+39,40,39.0,+17:13,205,THALMANN Roland,25,Switzerland,,,7:007:00,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+40,41,52.0,+21:40,186,OURSELIN Paul,25,Team Total Direct Energie,,,7:297:29,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+41,42,30.0,+10:37,21,BOUWMAN Koen,25,Team Jumbo-Visma,,,7:407:40,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+42,43,42.0,+19:09,3,DEVENYNS Dries,35,Deceuninck - Quick Step,,,7:477:47,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+43,44,57.0,+23:07,33,CONTRERAS Rodrigo,25,Astana Pro Team,,,7:507:50,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+44,45,100.0,+46:24,13,BURGHARDT Marcus,35,BORA - hansgrohe,,,8:128:12,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+45,46,38.0,+16:17,176,MÄDER Gino,22,Team Dimension Data,,,8:288:28,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+46,47,35.0,+13:44,111,BRAMBILLA Gianluca,31,Trek - Segafredo,,,9:339:33,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+47,48,32.0,+11:46,132,CRADDOCK Lawson,27,EF Education First,,,9:549:54,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+48,49,58.0,+23:40,52,BYSTRØM Sven Erik,27,UAE-Team Emirates,,,",,9:54",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+49,50,47.0,+20:36,134,BROWN Nathan,27,EF Education First,,,",,9:54",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+50,51,40.0,+18:25,77,TRENTIN Matteo,29,Mitchelton-Scott,,,9:599:59,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+51,52,82.0,+37:20,26,VAN DER HOORN Taco,25,Team Jumbo-Visma,,,",,9:59",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+52,53,64.0,+28:24,105,MOHORIČ Matej,24,Bahrain Merida,,,11:1911:19,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+53,54,76.0,+33:31,36,NATAROV Yuriy,22,Astana Pro Team,,,11:2111:21,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+54,55,36.0,+15:36,84,KELDERMAN Wilco,28,Team Sunweb,,,11:2311:23,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+55,56,85.0,+40:56,146,VAN DER SANDE Tosh,28,Lotto Soudal,,,12:0212:02,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+56,57,72.0,+31:56,143,HANSEN Adam,38,Lotto Soudal,,,",,12:02",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+57,58,62.0,+26:38,164,HAAS Nathan,30,Team Katusha Alpecin,,,",,12:02",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+58,59,94.0,+44:03,127,VANDENBERGH Stijn,35,AG2R La Mondiale,,,12:4112:41,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+59,60,50.0,+21:25,25,TOLHOEK Antwan,25,Team Jumbo-Visma,,,",,12:41",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+60,61,44.0,+19:43,151,VAN AVERMAET Greg,34,CCC Team,,,12:5212:52,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+61,62,56.0,+22:39,155,SCHÄR Michael,32,CCC Team,,,",,12:52",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+62,63,55.0,+22:33,66,CARRETERO Héctor,24,Movistar Team,,,13:1613:16,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+63,64,45.0,+20:23,152,BEVIN Patrick,28,CCC Team,,,13:2013:20,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+64,65,66.0,+29:18,91,KÜNG Stefan,25,Groupama - FDJ,,,15:2515:25,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+65,66,48.0,+21:02,81,HIRSCHI Marc,20,Team Sunweb,,,",,15:25",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+66,67,79.0,+35:33,125,WARBASSE Larry,28,AG2R La Mondiale,,,",,15:25",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+67,68,81.0,+37:13,202,FRIESECKE Gian,24,Switzerland,,,",,15:25",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+68,69,63.0,+27:38,162,BATTAGLIN Enrico,29,Team Katusha Alpecin,,,",,15:25",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+69,70,74.0,+32:47,185,LIGTHART Pim,31,Team Total Direct Energie,,,",,15:25",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+70,71,61.0,+26:27,86,MATTHEWS Michael,28,Team Sunweb,,,15:4415:44,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+71,72,77.0,+34:17,177,SLAGTER Tom-Jelte,29,Team Dimension Data,,,15:5215:52,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+72,73,78.0,+34:53,4,LAMPAERT Yves,28,Deceuninck - Quick Step,,,16:0316:03,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+73,74,71.0,+31:48,142,DEWULF Stan,21,Lotto Soudal,,,",,16:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+74,75,120.0,+57:49,195,ANDERSON Ryan,31,Rally UHC Cycling,,,",,16:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+75,76,92.0,+43:30,166,SMIT Willie,26,Team Katusha Alpecin,,,16:3416:34,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+76,77,84.0,+40:17,16,PÖSTLBERGER Lukas,27,BORA - hansgrohe,,,16:3816:38,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+77,78,46.0,+20:26,62,ANACONA Winner,30,Movistar Team,,,16:5616:56,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+78,79,111.0,+54:41,167,ZABEL Rick,25,Team Katusha Alpecin,,,17:2317:23,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+79,80,89.0,+42:25,55,KRISTOFF Alexander,31,UAE-Team Emirates,,,17:4617:46,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+80,81,101.0,+46:32,193,JOYCE Colin,24,Rally UHC Cycling,,,17:5017:50,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+81,82,96.0,+45:11,135,DOCKER Mitchell,32,EF Education First,,,17:5617:56,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+82,83,126.0,+1:00:16,183,COUSIN Jérôme,30,Team Total Direct Energie,,,",,17:56",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+83,84,67.0,+29:24,51,COSTA Rui,32,UAE-Team Emirates,,,17:5817:58,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+84,85,109.0,+54:20,76,BEWLEY Sam,31,Mitchelton-Scott,,,",,17:58",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+85,86,108.0,+53:24,192,CARPENTER Robin,27,Rally UHC Cycling,,,19:1219:12,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+86,87,128.0,+1:01:50,194,MANNION Gavin,27,Rally UHC Cycling,,,19:1419:14,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+87,88,117.0,+56:55,23,LINDEMAN Bert-Jan,30,Team Jumbo-Visma,,,19:1519:15,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+88,89,99.0,+46:08,104,GARCÍA CORTINA Iván,23,Bahrain Merida,,,19:1919:19,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+89,90,68.0,+30:46,71,ALBASINI Michael,38,Mitchelton-Scott,,,",,19:19",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+90,91,121.0,+58:36,196,BRITTON Rob,34,Rally UHC Cycling,,,",,19:19",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+91,92,54.0,+21:59,94,GENIETS Kevin,22,Groupama - FDJ,,,",,19:19",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+92,93,91.0,+43:14,204,LIENHARD Fabian,25,Switzerland,,,19:3219:32,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+93,94,49.0,+21:14,131,CARTHY Hugh,24,EF Education First,,,",,19:32",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+94,95,90.0,+42:58,44,DOULL Owain,26,Team INEOS,,,19:4819:48,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+95,96,65.0,+29:16,181,CALMEJANE Lilian,26,Team Total Direct Energie,,,19:5219:52,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+96,97,122.0,+58:59,147,VANENDERT Jelle,34,Lotto Soudal,,,19:5419:54,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+97,98,98.0,+45:53,126,LATOUR Pierre,25,AG2R La Mondiale,,,19:5619:56,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+98,99,97.0,+45:38,57,MORI Manuele,38,UAE-Team Emirates,,,19:5719:57,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+99,100,106.0,+50:32,103,GAROSIO Andrea,25,Bahrain Merida,,,",,19:57",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+100,101,112.0,+55:33,67,ROELANDTS Jürgen,33,Movistar Team,,,20:0320:03,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+101,102,124.0,+59:29,136,SCULLY Tom,29,EF Education First,,,",,20:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+102,103,93.0,+43:52,137,VANMARCKE Sep,30,EF Education First,,,",,20:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+103,104,75.0,+33:08,85,KRAGH ANDERSEN Søren,24,Team Sunweb,,,",,20:03",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+104,105,73.0,+32:42,74,GRMAY Tsgabu,27,Mitchelton-Scott,,,20:3620:36,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+105,106,70.0,+31:23,2,ASGREEN Kasper,24,Deceuninck - Quick Step,,,20:4720:47,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+106,107,86.0,+41:29,102,AGNOLI Valerio,34,Bahrain Merida,,,20:5520:55,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+107,108,125.0,+59:55,165,HOLLENSTEIN Reto,33,Team Katusha Alpecin,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+108,109,103.0,+49:38,113,DEGENKOLB John,30,Trek - Segafredo,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+109,110,115.0,+56:28,203,IMHOF Claudio,28,Switzerland,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+110,111,87.0,+41:52,15,OSS Daniel,32,BORA - hansgrohe,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+111,112,80.0,+36:49,11,SAGAN Peter,29,BORA - hansgrohe,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+112,113,129.0,+1:03:54,197,TUFT Svein,42,Rally UHC Cycling,,,",,20:55",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+113,114,60.0,+25:27,72,STANNARD Robert,20,Mitchelton-Scott,,,21:1421:14,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+114,115,88.0,+41:56,63,BARBERO Carlos,28,Movistar Team,,,22:1322:13,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+115,116,116.0,+56:41,184,GRELLIER Fabien,24,Team Total Direct Energie,,,",,22:13",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+116,117,107.0,+52:04,182,BOUDAT Thomas,25,Team Total Direct Energie,,,",,22:13",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+117,118,105.0,+50:14,97,THOMAS Benjamin,23,Groupama - FDJ,,,22:2122:21,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+118,119,104.0,+50:06,114,GOGL Michael,25,Trek - Segafredo,,,22:3522:35,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+119,120,123.0,+59:27,95,HOELGAARD Daniel,25,Groupama - FDJ,,,23:4223:42,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+120,121,114.0,+56:26,12,BODNAR Maciej,34,BORA - hansgrohe,,,24:0724:07,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+121,122,130.0,+1:03:59,107,NIBALI Antonio,26,Bahrain Merida,,,",,24:07",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+122,123,135.0,+1:07:47,45,ROWE Luke,29,Team INEOS,,,24:1524:15,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+123,124,136.0,+1:09:06,17,SCHILLINGER Andreas,35,BORA - hansgrohe,,,24:2424:24,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+124,125,127.0,+1:00:53,175,THOMSON Jay Robert,33,Team Dimension Data,,,25:0825:08,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+125,126,102.0,+48:46,173,JANSE VAN RENSBURG Reinardt,30,Team Dimension Data,,,",,25:08",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+126,127,83.0,+38:02,82,ARNDT Nikias,27,Team Sunweb,,,26:1126:11,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+127,128,134.0,+1:07:41,156,VAN KEIRSBULCK Guillaume,28,CCC Team,,,27:0327:03,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+128,129,119.0,+57:46,5,MØRKØV Michael,34,Deceuninck - Quick Step,,,28:3528:35,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+129,130,137.0,+1:09:10,73,EDMONDSON Alex,25,Mitchelton-Scott,,,28:4128:41,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+130,131,132.0,+1:05:35,56,BOHLI Tom,25,UAE-Team Emirates,,,",,28:41",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+131,132,113.0,+55:43,24,ROOSEN Timo,26,Team Jumbo-Visma,,,",,28:41",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+132,133,95.0,+44:15,191,MCNULTY Brandon,21,Rally UHC Cycling,,,",,28:41",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+133,134,131.0,+1:04:55,154,SAJNOK Szymon,21,CCC Team,,,28:4228:42,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+134,135,118.0,+57:00,7,VIVIANI Elia,30,Deceuninck - Quick Step,,,28:4428:44,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+135,136,110.0,+54:31,157,WIŚNIOWSKI Łukasz,27,CCC Team,,,",,28:44",Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+136,137,133.0,+1:05:56,6,RICHEZE Maximiliano,36,Deceuninck - Quick Step,,,28:4728:47,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+137,138,138.0,+1:27:20,145,WOUTERS Enzo,23,Lotto Soudal,,,32:0632:06,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+138,DNF,,,116,REIJNEN Kiel,33,Trek - Segafredo,,,-,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19
+139,DNS,,,75,HEPBURN Michael,27,Mitchelton-Scott,,,-,Tour_de_Suisse,7,21 June 2019,38.488 km/h,263,216.6 km,19

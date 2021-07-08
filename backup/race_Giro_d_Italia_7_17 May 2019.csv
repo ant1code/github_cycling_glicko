@@ -1,0 +1,168 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,11.0,+5:23,32,BILBAO Pello,29,Astana Pro Team,100.0,80.0,4:06:27,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+1,2,14.0,+5:34,11,GALLOPIN Tony,30,AG2R La Mondiale,40.0,50.0,0:050:05,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+2,3,13.0,+5:24,64,FORMOLO Davide,26,BORA - hansgrohe,20.0,35.0,",,0:05",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+3,4,41.0,+9:05,136,HAMILTON Lucas,23,Mitchelton-Scott,12.0,25.0,0:090:09,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+4,5,19.0,+6:16,23,CATTANEO Mattia,28,Androni Giocattoli - Sidermec,4.0,18.0,",,0:09",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+5,6,2.0,+1:32,7,ROJAS José Joaquín,33,Movistar Team,,15.0,0:300:30,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+6,7,51.0,+12:11,164,HENAO Sebastián,25,Team INEOS,,12.0,0:480:48,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+7,8,82.0,+21:57,6,PEDRERO Antonio,27,Movistar Team,,10.0,1:011:01,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+8,9,5.0,+2:17,106,MADOUAS Valentin,22,Groupama - FDJ,,8.0,1:071:07,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+9,10,50.0,+11:36,28,VENDRAME Andrea,24,Androni Giocattoli - Sidermec,,6.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+10,11,39.0,+8:41,128,VAN DER SANDE Tosh,28,Lotto Soudal,,5.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+11,12,59.0,+14:58,182,BATTAGLIN Enrico,29,Team Katusha Alpecin,,4.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+12,13,33.0,+7:39,21,GAVAZZI Francesco,34,Androni Giocattoli - Sidermec,,3.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+13,14,18.0,+6:13,61,MAJKA Rafał,29,BORA - hansgrohe,,2.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+14,15,47.0,+11:07,192,BAKELANTS Jan,33,Team Sunweb,,1.0,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+15,16,17.0,+6:08,31,LÓPEZ Miguel Ángel,25,Astana Pro Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+16,17,16.0,+6:03,41,NIBALI Vincenzo,34,Bahrain Merida,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+17,18,15.0,+5:59,131,YATES Simon,26,Mitchelton-Scott,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+18,19,21.0,+6:26,84,JUNGELS Bob,26,Deceuninck - Quick Step,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+19,20,12.0,+5:24,171,ROGLIČ Primož,29,Team Jumbo-Visma,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+20,21,26.0,+6:48,161,SIVAKOV Pavel,21,Team INEOS,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+21,22,24.0,+6:40,134,CHAVES Esteban,29,Mitchelton-Scott,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+22,23,35.0,+7:52,97,DOMBROWSKI Joe,28,EF Education First,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+23,24,10.0,+4:57,196,OOMEN Sam,23,Team Sunweb,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+24,25,8.0,+3:25,88,SERRY Pieter,30,Deceuninck - Quick Step,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+25,26,20.0,+6:19,201,MOLLEMA Bauke,32,Trek - Segafredo,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+26,27,25.0,+6:45,3,CARAPAZ Richard,25,Movistar Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+27,28,55.0,+13:59,162,DUNBAR Eddie,22,Team INEOS,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+28,29,29.0,+7:13,1,LANDA Mikel,29,Movistar Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+29,30,27.0,+7:00,181,ZAKARIN Ilnur,29,Team Katusha Alpecin,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+30,31,52.0,+13:14,203,CICCONE Giulio,24,Trek - Segafredo,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+31,32,73.0,+17:34,48,POZZOVIVO Domenico,36,Bahrain Merida,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+32,33,37.0,+8:22,82,CAPECCHI Eros,32,Deceuninck - Quick Step,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+33,34,38.0,+8:23,151,O'CONNOR Ben,23,Team Dimension Data,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+34,35,36.0,+8:15,98,KANGERT Tanel,32,EF Education First,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+35,36,72.0,+17:29,168,SOSA Iván Ramiro,21,Team INEOS,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+36,37,22.0,+6:34,73,DE LA PARTE Víctor,32,CCC Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+37,38,49.0,+11:31,198,VERVAEKE Louis,25,Team Sunweb,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+38,39,31.0,+7:20,138,NIEVE Mikel,34,Mitchelton-Scott,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+39,40,6.0,+2:45,71,ANTUNES Amaro,28,CCC Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+40,41,4.0,+2:09,16,PETERS Nans,25,AG2R La Mondiale,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+41,42,67.0,+16:41,12,BIDARD François,27,AG2R La Mondiale,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+42,43,30.0,+7:18,18,VUILLERMOZ Alexis,30,AG2R La Mondiale,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+43,44,34.0,+7:43,163,GEOGHEGAN HART Tao,24,Team INEOS,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+44,45,66.0,+16:38,56,ROTA Lorenzo,23,Bardiani - CSF,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+45,46,53.0,+13:25,195,HINDLEY Jai,23,Team Sunweb,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+46,47,43.0,+9:39,17,WARBASSE Larry,28,AG2R La Mondiale,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+47,48,1.0,+0:00,214,CONTI Valerio,26,UAE-Team Emirates,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+48,49,23.0,+6:40,96,CARTHY Hugh,24,EF Education First,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+49,50,62.0,+16:07,194,HAMILTON Chris,23,Team Sunweb,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+50,51,9.0,+3:27,2,AMADOR Andrey,32,Movistar Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+51,52,40.0,+8:50,118,SBARAGLI Kristian,29,Israel Cycling Academy,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+52,53,3.0,+1:41,52,CARBONI Giovanni,23,Bardiani - CSF,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+53,54,28.0,+7:03,217,POLANC Jan,27,UAE-Team Emirates,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+54,55,7.0,+3:14,26,MASNADA Fausto,25,Androni Giocattoli - Sidermec,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+55,56,32.0,+7:31,37,VILLELLA Davide,27,Astana Pro Team,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+56,57,42.0,+9:27,153,GASPAROTTO Enrico,37,Team Dimension Data,,,",,1:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+57,58,68.0,+16:45,172,BOUWMAN Koen,25,Team Jumbo-Visma,,,1:281:28,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+58,59,71.0,+17:25,36,IZAGIRRE Ion,30,Astana Pro Team,,,1:361:36,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+59,60,56.0,+14:16,15,GASTAUER Ben,31,AG2R La Mondiale,,,1:441:44,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+60,61,45.0,+10:08,34,CATALDO Dario,34,Astana Pro Team,,,",,1:44",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+61,62,60.0,+15:10,148,SANTAROMITA Ivan,35,Nippo Vini Fantini Faizanè,,,1:581:58,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+62,63,46.0,+11:01,27,MONTAGUTI Matteo,35,Androni Giocattoli - Sidermec,,,2:072:07,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+63,64,58.0,+14:50,14,DUPONT Hubert,38,AG2R La Mondiale,,,",,2:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+64,65,109.0,+32:52,105,LUDVIGSSON Tobias,28,Groupama - FDJ,,,",,2:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+65,66,69.0,+16:52,133,BOOKWALTER Brent,35,Mitchelton-Scott,,,",,2:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+66,67,105.0,+30:16,174,KUSS Sepp,24,Team Jumbo-Visma,,,",,2:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+67,68,44.0,+9:42,116,PLAZA Rubén,39,Israel Cycling Academy,,,",,2:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+68,69,78.0,+19:12,35,HIRT Jan,28,Astana Pro Team,,,2:112:11,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+69,70,80.0,+20:00,176,MARTENS Paul,35,Team Jumbo-Visma,,,2:262:26,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+70,71,87.0,+23:38,184,HALLER Marco,28,Team Katusha Alpecin,,,",,2:26",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+71,72,88.0,+23:53,143,BAGIOLI Nicola,24,Nippo Vini Fantini Faizanè,,,2:582:58,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+72,73,63.0,+16:12,125,HANSEN Adam,38,Lotto Soudal,,,3:103:10,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+73,74,106.0,+30:16,117,NIV Guy,25,Israel Cycling Academy,,,",,3:10",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+74,75,99.0,+28:29,86,SABATINI Fabio,34,Deceuninck - Quick Step,,,3:423:42,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+75,76,81.0,+20:39,66,POLJAŃSKI Paweł,29,BORA - hansgrohe,,,",,3:42",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+76,77,48.0,+11:30,65,MCCARTHY Jay,26,BORA - hansgrohe,,,4:114:11,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+77,78,64.0,+16:27,38,ZEITS Andrey,32,Astana Pro Team,,,4:304:30,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+78,79,107.0,+32:01,94,BROWN Nathan,27,EF Education First,,,5:285:28,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+79,80,110.0,+33:43,78,VENTOSO Francisco José,37,CCC Team,,,5:415:41,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+80,81,79.0,+19:38,177,TOLHOEK Antwan,25,Team Jumbo-Visma,,,6:166:16,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+81,82,94.0,+26:55,124,DE GENDT Thomas,32,Lotto Soudal,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+82,83,77.0,+18:55,57,SENNI Manuel,27,Bardiani - CSF,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+83,84,57.0,+14:27,155,GIBBONS Ryan,24,Team Dimension Data,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+84,85,137.0,+49:45,122,CAMPENAERTS Victor,27,Lotto Soudal,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+85,86,104.0,+30:16,123,DE BUYST Jasper,25,Lotto Soudal,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+86,87,83.0,+22:13,45,GAROSIO Andrea,25,Bahrain Merida,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+87,88,70.0,+17:02,202,BRAMBILLA Gianluca,31,Trek - Segafredo,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+88,89,75.0,+18:37,185,HOLLENSTEIN Reto,33,Team Katusha Alpecin,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+89,90,114.0,+36:53,63,BENEDETTI Cesare,31,BORA - hansgrohe,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+90,91,74.0,+18:11,166,NARVÁEZ Jhonatan,22,Team INEOS,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+91,92,111.0,+34:35,24,FLÓREZ Miguel Eduardo,23,Androni Giocattoli - Sidermec,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+92,93,76.0,+18:50,47,NIBALI Antonio,26,Bahrain Merida,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+93,94,65.0,+16:31,76,OWSIAN Łukasz,29,CCC Team,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+94,95,116.0,+37:06,51,BARBIN Enrico,29,Bardiani - CSF,,,",,6:16",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+95,96,129.0,+44:07,54,MAESTRI Mirco,27,Bardiani - CSF,,,8:198:19,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+96,97,90.0,+24:46,25,FRAPPORTI Marco,34,Androni Giocattoli - Sidermec,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+97,98,115.0,+37:04,193,HAGA Chad,30,Team Sunweb,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+98,99,136.0,+49:41,132,BAUER Jack,34,Mitchelton-Scott,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+99,100,61.0,+16:06,135,DURBRIDGE Luke,28,Mitchelton-Scott,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+100,101,84.0,+22:16,137,JUUL-JENSEN Christopher,29,Mitchelton-Scott,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+101,102,122.0,+42:10,178,VAN EMDEN Jos,34,Team Jumbo-Visma,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+102,103,100.0,+29:40,154,GHEBREIGZABHIER Amanuel,24,Team Dimension Data,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+103,104,133.0,+46:52,72,ČERNÝ Josef,26,CCC Team,,,",,8:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+104,105,54.0,+13:35,218,ULISSI Diego,29,UAE-Team Emirates,,,8:348:34,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+105,106,93.0,+26:26,167,PUCCIO Salvatore,29,Team INEOS,,,8:488:48,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+106,107,112.0,+36:15,206,GOGL Michael,25,Trek - Segafredo,,,9:169:16,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+107,108,117.0,+38:46,183,BIERMANS Jenthe,23,Team Katusha Alpecin,,,9:569:56,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+108,109,98.0,+28:18,186,KUZNETSOV Viacheslav,29,Team Katusha Alpecin,,,",,9:56",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+109,110,97.0,+28:15,53,COVILI Luca,22,Bardiani - CSF,,,10:5310:53,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+110,111,108.0,+32:36,165,KNEES Christian,38,Team INEOS,,,17:1917:19,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+111,112,147.0,+58:46,8,SÜTTERLIN Jasha,26,Movistar Team,,,",,17:19",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+112,113,102.0,+30:16,42,AGNOLI Valerio,34,Bahrain Merida,,,17:2517:25,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+113,114,91.0,+26:02,22,BELLETTI Manuel,33,Androni Giocattoli - Sidermec,,,",,17:25",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+114,115,85.0,+22:38,44,CARUSO Damiano,31,Bahrain Merida,,,",,17:25",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+115,116,92.0,+26:25,215,MARCATO Marco,35,UAE-Team Emirates,,,17:3017:30,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+116,117,113.0,+36:42,115,NEILANDS Krists,24,Israel Cycling Academy,,,17:3317:33,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+117,118,103.0,+30:16,33,BOARO Manuele,32,Astana Pro Team,,,18:0618:06,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+118,119,121.0,+42:09,81,VIVIANI Elia,30,Deceuninck - Quick Step,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+119,120,159.0,+1:10:15,58,SIMION Paolo,26,Bardiani - CSF,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+120,121,123.0,+42:15,43,BOLE Grega,33,Bahrain Merida,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+121,122,155.0,+1:06:08,145,LONARDI Giovanni,22,Nippo Vini Fantini Faizanè,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+122,123,89.0,+24:11,87,SÉNÉCHAL Florian,25,Deceuninck - Quick Step,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+123,124,148.0,+59:31,207,IRIZAR Markel,39,Trek - Segafredo,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+124,125,86.0,+22:48,205,CONCI Nicola,22,Trek - Segafredo,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+125,126,140.0,+55:30,156,NIZZOLO Giacomo,30,Team Dimension Data,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+126,127,152.0,+1:05:15,142,CIMA Damiano,25,Nippo Vini Fantini Faizanè,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+127,128,101.0,+30:16,158,WYSS Danilo,33,Team Dimension Data,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+128,129,127.0,+43:51,103,KONOVALOVAS Ignatas,33,Groupama - FDJ,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+129,130,154.0,+1:05:58,188,STRAKHOV Dmitry,24,Team Katusha Alpecin,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+130,131,156.0,+1:07:27,114,DUNNE Conor,27,Israel Cycling Academy,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+131,132,144.0,+57:20,112,GEBREMEDHIN Awet,27,Israel Cycling Academy,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+132,133,164.0,+1:19:34,13,DENZ Nico,25,AG2R La Mondiale,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+133,134,96.0,+27:35,95,CAICEDO Jonathan Klever,26,EF Education First,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+134,135,150.0,+1:04:41,74,GRADEK Kamil,28,CCC Team,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+135,136,151.0,+1:05:07,152,DAVIES Scott,23,Team Dimension Data,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+136,137,138.0,+54:00,85,KNOX James,23,Deceuninck - Quick Step,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+137,138,141.0,+55:49,5,MAS Lluís,29,Movistar Team,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+138,139,146.0,+58:41,4,CARRETERO Héctor,23,Movistar Team,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+139,140,139.0,+55:19,109,SINKELDAM Ramon,30,Groupama - FDJ,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+140,141,161.0,+1:14:40,212,BOHLI Tom,25,UAE-Team Emirates,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+141,142,124.0,+43:28,102,GUARNIERI Jacopo,31,Groupama - FDJ,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+142,143,149.0,+1:04:26,144,LOBATO Juan José,30,Nippo Vini Fantini Faizanè,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+143,144,153.0,+1:05:46,107,SCOTSON Miles,25,Groupama - FDJ,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+144,145,132.0,+46:48,55,ORSINI Umberto,24,Bardiani - CSF,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+145,146,163.0,+1:15:06,147,HATSUYAMA Sho,30,Nippo Vini Fantini Faizanè,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+146,147,143.0,+57:06,113,BOIVIN Guillaume,29,Israel Cycling Academy,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+147,148,130.0,+44:22,111,CIMOLAI Davide,29,Israel Cycling Academy,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+148,149,142.0,+55:57,175,LEEZER Tom,33,Team Jumbo-Visma,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+149,150,118.0,+39:49,62,ACKERMANN Pascal,25,BORA - hansgrohe,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+150,151,135.0,+47:33,104,LE GAC Olivier,25,Groupama - FDJ,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+151,152,128.0,+44:00,92,BENNETT Sean,23,EF Education First,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+152,153,126.0,+43:34,68,SELIG Rüdiger,30,BORA - hansgrohe,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+153,154,125.0,+43:33,67,SCHWARZMANN Michael,28,BORA - hansgrohe,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+154,155,131.0,+46:33,126,KLUGE Roger,33,Lotto Soudal,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+155,156,95.0,+27:12,141,CANOLA Marco,30,Nippo Vini Fantini Faizanè,,,",,18:06",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+156,157,157.0,+1:07:43,157,RENSHAW Mark,36,Team Dimension Data,,,18:2418:24,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+157,158,119.0,+40:59,121,EWAN Caleb,24,Lotto Soudal,,,18:2718:27,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+158,159,120.0,+41:07,101,DÉMARE Arnaud,27,Groupama - FDJ,,,19:0419:04,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+159,160,134.0,+47:20,213,CONSONNI Simone,24,UAE-Team Emirates,,,19:0719:07,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+160,161,145.0,+57:21,83,HONORÉ Mikkel Frølich,22,Deceuninck - Quick Step,,,",,19:07",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+161,162,158.0,+1:07:55,208,MOSCHETTI Matteo,22,Trek - Segafredo,,,27:1827:18,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+162,163,162.0,+1:14:59,204,CLARKE Will,34,Trek - Segafredo,,,",,27:18",Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+163,164,160.0,+1:10:46,75,MARECZKO Jakub,25,CCC Team,,,28:5428:54,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+164,DNF,,,211,GAVIRIA Fernando,24,UAE-Team Emirates,,,-,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+165,DNF,,,173,DE PLUS Laurens,23,Team Jumbo-Visma,,,-,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15
+166,DNF,,,91,MODOLO Sacha,31,EF Education First,,,-,Giro_d_Italia,7,17 May 2019,45.04 km/h,95,185 km,15

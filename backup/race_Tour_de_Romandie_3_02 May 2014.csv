@@ -1,0 +1,148 @@
+,Rnk,GC,Timelag,BIB,Rider,Age,Team,UCI,Pnt,Time,Name,Stage,Date,Avg. speed winner,ProfileScore,Distance,RaceRanking
+0,1,1.0,+0:00,31,ŠPILAK Simon,27,Team Katusha,6.0,50.0,5:09:23,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+1,2,2.0,+0:01,1,FROOME Chris,28,Team Sky,4.0,30.0,",,0:00",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+2,3,3.0,+1:02,121,COSTA Rui,27,Lampre - Merida,2.0,18.0,0:570:57,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+3,4,7.0,+1:14,163,FUGLSANG Jakob,29,Astana Pro Team,1.0,13.0,",,0:57",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+4,5,6.0,+1:13,23,INTXAUSTI Beñat,28,Movistar Team,1.0,10.0,",,0:57",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+5,6,5.0,+1:10,181,FRANK Mathias,27,IAM Cycling,,7.0,",,0:57",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+6,7,4.0,+1:06,161,NIBALI Vincenzo,29,Astana Pro Team,,4.0,",,0:57",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+7,8,8.0,+1:40,22,HERRADA Jesús,23,Movistar Team,,3.0,1:411:41,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+8,9,11.0,+1:57,141,PINOT Thibaut,23,FDJ.fr,,2.0,",,1:41",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+9,10,10.0,+1:50,101,TALANSKY Andrew,25,Garmin Sharp,,1.0,",,1:41",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+10,11,13.0,+2:46,188,WYSS Marcel,27,IAM Cycling,,,",,1:41",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+11,12,9.0,+1:48,24,IZAGIRRE Ion,25,Movistar Team,,,",,1:41",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+12,13,12.0,+2:18,64,MAJKA Rafał,24,Tinkoff - Saxo,,,2:002:00,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+13,14,15.0,+3:05,186,REICHENBACH Sébastien,24,IAM Cycling,,,2:352:35,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+14,15,14.0,+3:01,71,ZOIDL Riccardo,26,Trek Factory Racing,,,2:362:36,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+15,16,17.0,+3:40,151,MONFORT Maxime,31,Lotto Belisol,,,3:253:25,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+16,17,18.0,+3:54,91,TEN DAM Laurens,33,Belkin-Pro Cycling Team,,,",,3:25",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+17,18,19.0,+4:09,102,CARDOSO André,29,Garmin Sharp,,,",,3:25",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+18,19,20.0,+4:16,52,ATAPUMA Darwin,26,BMC Racing Team,,,",,3:25",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+19,20,16.0,+3:36,11,URÁN Rigoberto,27,Omega Pharma - Quick-Step,,,",,3:25",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+20,21,23.0,+6:13,12,BAKELANTS Jan,28,Omega Pharma - Quick-Step,,,4:584:58,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+21,22,21.0,+6:00,61,ROCHE Nicolas,29,Tinkoff - Saxo,,,5:435:43,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+22,23,22.0,+6:07,171,VOECKLER Thomas,34,Team Europcar,,,",,5:43",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+23,24,28.0,+9:34,127,VALLS Rafael,26,Lampre - Merida,,,7:347:34,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+24,25,25.0,+7:56,36,SILIN Egor,25,Team Katusha,,,",,7:34",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+25,26,24.0,+7:50,37,TROFIMOV Yuri,30,Team Katusha,,,",,7:34",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+26,27,26.0,+8:10,187,TSCHOPP Johann,31,IAM Cycling,,,",,7:34",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+27,28,29.0,+10:06,152,ARMÉE Sander,28,Lotto Belisol,,,8:358:35,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+28,29,27.0,+8:58,166,KANGERT Tanel,27,Astana Pro Team,,,",,8:35",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+29,30,30.0,+10:09,62,BELTRÁN Edward,24,Tinkoff - Saxo,,,",,8:35",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+30,31,31.0,+11:26,21,CASTROVIEJO Jonathan,27,Movistar Team,,,11:1411:14,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+31,32,33.0,+11:47,44,BOUET Maxime,27,AG2R La Mondiale,,,11:2311:23,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+32,33,68.0,+28:16,172,GAUTIER Cyril,26,Team Europcar,,,",,11:23",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+33,34,34.0,+12:09,45,CHEREL Mikaël,28,AG2R La Mondiale,,,",,11:23",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+34,35,32.0,+11:34,33,CHERNETSKI Sergei,24,Team Katusha,,,",,11:23",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+35,36,36.0,+12:13,93,CLEMENT Stef,31,Belkin-Pro Cycling Team,,,12:0112:01,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+36,37,40.0,+13:13,55,NERZ Dominik,24,BMC Racing Team,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+37,38,51.0,+20:41,53,DILLIER Silvan,23,BMC Racing Team,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+38,39,35.0,+12:10,115,PREIDLER Georg,23,Team Giant - Shimano,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+39,40,37.0,+12:15,143,GENIEZ Alexandre,26,FDJ.fr,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+40,41,38.0,+12:20,41,PERAUD Jean-Christophe,36,AG2R La Mondiale,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+41,42,39.0,+12:34,48,VUILLERMOZ Alexis,25,AG2R La Mondiale,,,",,12:01",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+42,43,43.0,+15:41,87,SCHURTER Nino,27,Orica GreenEDGE,,,14:2914:29,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+43,44,44.0,+16:34,3,LÓPEZ David,32,Team Sky,,,14:5414:54,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+44,45,83.0,+34:12,17,PAUWELS Serge,30,Omega Pharma - Quick-Step,,,",,14:54",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+45,46,41.0,+15:20,131,BASSO Ivan,36,Cannondale,,,",,14:54",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+46,47,42.0,+15:32,177,MÉDEREL Maxime,33,Team Europcar,,,",,14:54",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+47,48,60.0,+23:36,4,NIEVE Mikel,29,Team Sky,,,",,14:54",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+48,49,48.0,+17:16,13,BRAMBILLA Gianluca,26,Omega Pharma - Quick-Step,,,15:5615:56,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+49,50,47.0,+17:14,176,MALACARNE Davide,26,Team Europcar,,,",,15:56",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+50,51,45.0,+16:37,86,MEYER Cameron,26,Orica GreenEDGE,,,16:2116:21,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+51,52,50.0,+17:44,122,ANACONA Winner,25,Lampre - Merida,,,16:2316:23,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+52,53,46.0,+16:54,178,THURAU Björn,25,Team Europcar,,,16:2816:28,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+53,54,49.0,+17:27,104,DENNIS Rohan,23,Garmin Sharp,,,17:2617:26,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+54,55,67.0,+27:49,106,FERNÁNDEZ Koldo,32,Garmin Sharp,,,20:4520:45,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+55,56,65.0,+25:57,134,LONGO BORGHINI Paolo,33,Cannondale,,,22:5222:52,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+56,57,81.0,+33:31,65,MCCARTHY Jay,21,Tinkoff - Saxo,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+57,58,57.0,+23:21,67,POLJAŃSKI Paweł,23,Tinkoff - Saxo,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+58,59,59.0,+23:29,142,ELISSONDE Kenny,22,FDJ.fr,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+59,60,53.0,+23:08,165,IGLINSKIY Maxim,33,Astana Pro Team,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+60,61,64.0,+24:39,66,PETROV Evgeni,35,Tinkoff - Saxo,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+61,62,75.0,+31:04,58,WYSS Danilo,28,BMC Racing Team,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+62,63,58.0,+23:23,183,FUMEAUX Jonathan,26,IAM Cycling,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+63,64,72.0,+30:59,113,LUDVIGSSON Tobias,23,Team Giant - Shimano,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+64,65,66.0,+27:44,56,VELITS Peter,29,BMC Racing Team,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+65,66,55.0,+23:17,164,GRIVKO Andrey,30,Astana Pro Team,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+66,67,54.0,+23:11,137,MOSER Moreno,23,Cannondale,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+67,68,63.0,+24:25,105,FAIRLY Caleb,27,Garmin Sharp,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+68,69,80.0,+32:24,68,ZAUGG Oliver,32,Tinkoff - Saxo,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+69,70,52.0,+22:50,108,NAVARDAUSKAS Ramūnas,26,Garmin Sharp,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+70,71,61.0,+24:12,103,DANIELSON Tom,36,Garmin Sharp,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+71,72,76.0,+31:35,126,OLIVEIRA Nelson,25,Lampre - Merida,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+72,73,69.0,+29:50,35,KOZONTCHUK Dmitry,30,Team Katusha,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+73,74,85.0,+34:34,63,JUUL-JENSEN Christopher,24,Tinkoff - Saxo,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+74,75,73.0,+31:00,32,BRUTT Pavel,32,Team Katusha,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+75,76,62.0,+24:20,148,ROY Jérémy,30,FDJ.fr,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+76,77,56.0,+23:21,145,MOUREY Francis,33,FDJ.fr,,,",,22:52",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+77,78,84.0,+34:12,8,ZANDIO Xabier,37,Team Sky,,,23:2123:21,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+78,79,78.0,+32:14,27,SZMYD Sylwester,36,Movistar Team,,,30:4530:45,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+79,80,70.0,+30:38,15,KWIATKOWSKI Michał,23,Omega Pharma - Quick-Step,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+80,81,77.0,+31:57,97,MARTENS Paul,30,Belkin-Pro Cycling Team,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+81,82,79.0,+32:18,92,BOBRIDGE Jack,24,Belkin-Pro Cycling Team,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+82,83,89.0,+39:13,173,GUILLEMOIS Romain,23,Team Europcar,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+83,84,71.0,+30:51,96,KEIZER Martijn,26,Belkin-Pro Cycling Team,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+84,85,88.0,+39:12,125,MORI Manuele,33,Lampre - Merida,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+85,86,74.0,+31:03,94,HIVERT Jonathan,29,Belkin-Pro Cycling Team,,,",,30:45",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+86,87,82.0,+33:52,147,ROUX Anthony,27,FDJ.fr,,,32:4932:49,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+87,88,86.0,+35:17,14,DE GENDT Thomas,27,Omega Pharma - Quick-Step,,,34:4934:49,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+88,89,87.0,+36:47,123,FAVILLI Elia,25,Lampre - Merida,,,",,34:49",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+89,90,91.0,+39:56,38,TSATEVICH Alexey,24,Team Katusha,,,38:4038:40,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+90,91,90.0,+39:51,81,ALBASINI Michael,33,Orica GreenEDGE,,,40:0340:03,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+91,92,122.0,+56:30,84,LANCASTER Brett,34,Orica GreenEDGE,,,",,40:03",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+92,93,135.0,+1:04:59,118,VEELERS Tom,29,Team Giant - Shimano,,,",,40:03",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+93,94,103.0,+43:47,85,MEIER Christian,29,Orica GreenEDGE,,,42:1642:16,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+94,95,116.0,+52:44,77,VOIGT Jens,42,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+95,96,132.0,+1:01:35,72,ALAFACI Eugenio,23,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+96,97,95.0,+43:20,184,HOLLENSTEIN Reto,28,IAM Cycling,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+97,98,140.0,+1:07:55,155,DEHAES Kenny,29,Lotto Belisol,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+98,99,100.0,+43:32,157,VAN DER SANDE Tosh,23,Lotto Belisol,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+99,100,131.0,+1:01:31,2,EARLE Nathan,25,Team Sky,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+100,101,130.0,+1:01:28,6,ROWE Luke,24,Team Sky,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+101,102,107.0,+47:19,158,VANENDERT Dennis,25,Lotto Belisol,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+102,103,123.0,+58:10,76,VAN POPPEL Danny,20,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+103,104,96.0,+43:22,95,HOFLAND Moreno,22,Belkin-Pro Cycling Team,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+104,105,101.0,+43:35,75,SERGENT Jesse,25,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+105,106,138.0,+1:07:34,144,LECUISINIER Pierre-Henri,20,FDJ.fr,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+106,107,117.0,+52:47,153,DE BIE Sean,22,Lotto Belisol,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+107,108,102.0,+43:42,167,KESSIAKOFF Fredrik,33,Astana Pro Team,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+108,109,93.0,+42:42,132,CARUSO Damiano,26,Cannondale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+109,110,105.0,+45:30,133,GATTO Oscar,29,Cannondale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+110,111,119.0,+53:37,138,SARMIENTO Cayetano José,27,Cannondale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+111,112,125.0,+58:52,88,TUFT Svein,36,Orica GreenEDGE,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+112,113,136.0,+1:07:06,83,HEPBURN Michael,22,Orica GreenEDGE,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+113,114,120.0,+54:01,57,WARBASSE Larry,23,BMC Racing Team,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+114,115,113.0,+51:38,54,KOHLER Martin,28,BMC Racing Team,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+115,116,126.0,+59:07,78,WATSON Calvin,21,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+116,117,133.0,+1:01:52,7,SUTTON Chris,29,Team Sky,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+117,118,114.0,+52:06,5,PORTE Richie,29,Team Sky,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+118,119,108.0,+49:22,42,APPOLLONIO Davide,24,AG2R La Mondiale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+119,120,139.0,+1:07:51,28,VISCONTI Giovanni,31,Movistar Team,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+120,121,94.0,+43:06,74,NIZZOLO Giacomo,25,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+121,122,110.0,+50:14,18,VERMOTE Julien,24,Omega Pharma - Quick-Step,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+122,123,111.0,+50:57,73,HONDO Danilo,40,Trek Factory Racing,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+123,124,127.0,+59:09,116,STAMSNIJDER Tom,28,Team Giant - Shimano,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+124,125,98.0,+43:26,117,TIMMER Albert,28,Team Giant - Shimano,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+125,126,106.0,+47:00,112,HUPOND Thierry,29,Team Giant - Shimano,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+126,127,124.0,+58:41,111,KITTEL Marcel,25,Team Giant - Shimano,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+127,128,104.0,+44:06,135,MARINO Jean-Marc,30,Cannondale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+128,129,137.0,+1:07:34,34,IGNATIEV Mikhail,28,Team Katusha,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+129,130,92.0,+42:18,16,MARTIN Tony,29,Omega Pharma - Quick-Step,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+130,131,99.0,+43:31,114,MEZGEC Luka,25,Team Giant - Shimano,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+131,132,134.0,+1:04:45,156,VALLÉE Boris,20,Lotto Belisol,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+132,133,115.0,+52:14,46,DOMONT Axel,23,AG2R La Mondiale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+133,134,109.0,+49:51,146,PINEAU Cédric,28,FDJ.fr,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+134,135,128.0,+59:14,128,XU Gang,30,Lampre - Merida,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+135,136,118.0,+52:53,124,FERRARI Roberto,31,Lampre - Merida,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+136,137,112.0,+51:33,185,LANG Pirmin,29,IAM Cycling,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+137,138,97.0,+43:23,174,HUREL Tony,26,Team Europcar,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+138,139,129.0,+1:01:14,47,GAUDIN Damien,27,AG2R La Mondiale,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+139,140,141.0,+1:08:03,107,MORTON Lachlan,22,Garmin Sharp,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+140,141,121.0,+56:06,175,KERN Christophe,33,Team Europcar,,,",,42:16",Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+141,DNF,,,51,VAN GARDEREN Tejay,25,BMC Racing Team,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+142,DNF,,,43,BONNAFOND Guillaume,26,AG2R La Mondiale,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+143,DNF,,,26,LOBATO Juan José,25,Movistar Team,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+144,DNF,,,25,LASTRAS Pablo,38,Movistar Team,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+145,DNS,,,168,WESTRA Lieuwe,31,Astana Pro Team,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
+146,DNS,,,182,BRÄNDLE Matthias,24,IAM Cycling,,,-,Tour_de_Romandie,3,02 May 2014,34.95 km/h,289,180.2 km,19
